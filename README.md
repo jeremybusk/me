@@ -29,11 +29,12 @@ My Wiki: https://tech.uvoo.io/ (Dumping ground for things I’m working on.)
   - LXD
     - https://github.com/lxc/pylxd
 - Kubernetes
+  - Microk8s HA, Kubeadm, minikube (If you know how to build it from scratch you probably know how to use AKS or EKS.
 - Virtualization
   - LXD - LXC containers and VMs.
   - Virtualbox
   - VMWare - Please avoid this platform is possible. There are better/cheaper options these days.
-
+  - qemu-kvm, libvirt
 - Relational Databases
   - Postgres
   - SQLite
@@ -56,8 +57,9 @@ My Wiki: https://tech.uvoo.io/ (Dumping ground for things I’m working on.)
   - PowerDNS - LUA
   - CoreDNS
   - F5 BIG IP DNS (GTM)
-Cloud Computing:
-  - I have and can use Cloud provider platforms like Azure, AWS, Digital Ocean but prefer just to use DISK and IP space if possible for cost savings, scaling and portability. Starting is fine but trying to scale really big you will lose margins.
+- Cloud Computing:
+  - I have and can use Cloud provider platforms like Azure, AWS, Digital Ocean but prefer just to use DISK and IP space if possible for cost savings, scaling and portability. - Starting is fine but trying to scale really big you will lose margins.
+  - Terraform (Yes I know how to read relaxed json, as well as yaml but I actually know what it is doing behind the scenes. Use Terraform with caution, know if it is actually making your life easier or just adding more cruft to the function you are using it for.
 Front-End Dev: (I use this stuff when needed)
   - JavaScript
   - CSS
@@ -65,7 +67,8 @@ Front-End Dev: (I use this stuff when needed)
   - https://mdbootstrap.com/
   - https://getbootstrap.com/
   - https://www.highcharts.com/  (Yes I have used D3 and C3.js but it sucked in comparison to highcharts.
-Architecture:
+  - 
+- Architecture:
   - I have been designing IaaS, PaaS and SaaS projects since college. It's not a mystery to me. I know and like all levels on the OSI model. I've seen the good, bad and the ugly. I think this knowledge is invaluable when designing new projects especially in todays atmosphere where many people only know a Cloud Computing Platform. I know the better ways to go about building Information Systems. I am able to make them simpler than most others can make them. I love the quote "Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius—and a lot of courage to move in the opposite direction." -- E. F. Schumacher - I try and design complex things as simple as possible because they will get complex enough in their evolution.
 More Traits:
 - Very High Creative Intelligence
