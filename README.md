@@ -3,7 +3,9 @@
 My Wiki: https://tech.uvoo.io/ (Dumping ground for things I’m working on.)
 
 
-# Skills (Not limited to)
+# Skills (Not limited to mainly my prefered)
+
+Note: I try and use everything that is opensource (and give back with $$ donations or work). This allows me flexabilty and scalability.
 
 - Operating Systems/Kernels:
   - Linux
@@ -15,7 +17,7 @@ My Wiki: https://tech.uvoo.io/ (Dumping ground for things I’m working on.)
 - Scripting:
   - Bash
   - Powershell
-- Automation:
+- Automation Pi:
   - Github Actions
   - Gitlab CI/CD
 - Source Control
@@ -48,32 +50,42 @@ My Wiki: https://tech.uvoo.io/ (Dumping ground for things I’m working on.)
   - btrfs (trying to use more)
   - lvm, ext4, xfs, ntfs
 - Embedded Languages
-  - LUA or TCL for F5 or expect
+  - LUA or TCL for F5 or expect automation
 - Firewalls
   - Netfilter nftables/iptables
 - Application Gateway
-  - NGINX, HAProxy, F5 BIG IP LTM
+  - NGINX - https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/
+  - HAProxy - https://www.haproxy.com/
+  - KeepAlived for HA (VRRP with floating ips) - https://keepalived.org/
+  - F5 BIG IP LTM
 - DNS
-  - PowerDNS - LUA
-  - CoreDNS
-  - F5 BIG IP DNS (GTM)
+  - PowerDNS (LUA) - https://www.powerdns.com/
+  - CoreDNS - https://coredns.io/
+  - ISC BIND - https://www.isc.org/bind/
+  - F5 BIG IP DNS (GTM) - Basically ISC BIND with embedded scripts for dynamic responses on health checks. - https://www.f5.com/products/big-ip-services/big-ip-dns
 - Cloud Computing:
-  - I have and can use Cloud provider platforms like Azure, AWS, Digital Ocean but prefer just to use DISK and IP space if possible for cost savings, scaling and portability. - Starting is fine but trying to scale really big you will lose margins.
-  - Terraform (Yes I know how to read relaxed json, as well as yaml but I actually know what it is doing behind the scenes. Use Terraform with caution, know if it is actually making your life easier or just adding more cruft to the function you are using it for.
-Front-End Dev: (I use this stuff when needed)
+  - I have and can use Cloud provider platforms like Azure, AWS, Digital Ocean but prefer just to use only their disk and ip address space if possible for cost savings, scaling, flexability and portability. - Starting out using cloud PaaS or SaaS is fine but trying to scale really big, mainly from a cost point) you will lose margins and most likely lose to your competitors that have talented engineers developing their own platform. 
+  - Terraform (Yes I know how to read json, relaxed json and even yaml but I actually know what it is doing behind the scenes. Use Terraform with caution, know if it is actually making your life easier or just adding more cruft to the function you are using it for.
+- Front-End Dev: (I use this stuff when needed)
   - JavaScript
-  - CSS
+  - AJAX
+  - CSS/SCSS
   - https://github.com/ractivejs/ractive but I have had some exposure to AngularJS, ReactJS
   - https://mdbootstrap.com/
   - https://getbootstrap.com/
   - https://www.highcharts.com/  (Yes I have used D3 and C3.js but it sucked in comparison to highcharts.
-  - 
+  - Datatables - https://datatables.net/ https://editor.datatables.net/ - I use this sometimes for building tabular data really quick.
+  - https://postgrest.org/ - GraphQL option https://www.graphile.org/postgraphile/ but I like postgrest for most situations.
+- Monitoring
+  - Zabbix - https://www.zabbix.com/ - I like Zabbix the best. I think it keeps gives and takes where it should. Most monitoring solutions are anoying Zabbix just does this less. Even better it is opensource and has over two decades of development. There are some other monitor systems that are notable. I've used most of them out there but many times prefer to build my own as many of them are not very good, especially when not using a relation database on the backend. KV stores only get you so far.
 - Architecture:
   - I have been designing IaaS, PaaS and SaaS projects since college. It's not a mystery to me. I know and like all levels on the OSI model. I've seen the good, bad and the ugly. I think this knowledge is invaluable when designing new projects especially in todays atmosphere where many people only know a Cloud Computing Platform. I know the better ways to go about building Information Systems. I am able to make them simpler than most others can make them. I love the quote "Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius—and a lot of courage to move in the opposite direction." -- E. F. Schumacher - I try and design complex things as simple as possible because they will get complex enough in their evolution.
 More Traits:
 - Very High Creative Intelligence
 - Very focused, result driven and high work output. - No, I'm not a gamer and don't watch more YouTube than I actually work. My reward in my brain is actually creating functional information systems that do real things.
 - Great communicator and leader - I might talk nerd but I'm not limited to it.
+
+
 
 
 
