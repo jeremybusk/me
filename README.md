@@ -45,6 +45,7 @@ My Wiki: https://tech.uvoo.io/ (Dumping ground for things I’m working on.)
   - CIFS
   - OpenZFS
   - btrfs (trying to use more)
+  - lvm, ext4, xfs, ntfs
 - Embedded Languages
   - LUA or TCL for F5 or expect
 - Firewalls
