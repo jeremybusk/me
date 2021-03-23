@@ -12,14 +12,20 @@ Note: I try and use everything that is opensource (and give back with $$ donatio
     - Ubuntu/Debian & Redhat/CentOS
   - Windows
 - Languages:
-  - Python
-  - Go
-- Scripting:
-  - Bash
-  - Powershell
+  - Application:
+    - Go
+    - Python
+    - Scala (if you really need to use Java)
+  - Scripting:
+    - Bash
+    - Powershell
+    - Python
+  - Frontend:
+    - 
 - Automation Pi:
   - Github Actions
   - Gitlab CI/CD
+  - Concourse (if you need decoupled)
 - Source Control
   - Github.com
   - Gitlab.com or Selfhosted.
@@ -35,7 +41,7 @@ Note: I try and use everything that is opensource (and give back with $$ donatio
 - Virtualization
   - LXD - LXC containers and VMs.
   - Virtualbox
-  - VMWare - Please avoid this platform is possible. There are better/cheaper options these days.
+  - VMWare - Please avoid this platform if possible. There are better/cheaper options these days.
   - qemu-kvm, libvirt
 - Relational Databases
   - Postgres
