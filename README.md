@@ -33,7 +33,7 @@ Over 25 years of experience building performant, highly scalable data systems an
 | **Security & Firewalls** | netfilter (nftables/iptables), eBPF with XDP/TC, pfSense, Suricata, Snort, OpenVAS, Nessus, Nmap, Kali, OSQuery |
 | **Authentication & IAM** | OAuth 2.0(AuthZ), OIDC(AuthN), JWT, IdPs, Keycloak, OpenLDAP, Active Directory, Custom Datastores, Public Cloud |
 | **Web & API** | React, PostgREST, REST, GraphQL, JSON, XML SOAP, Bootstrap, jQuery, HTML/CSS |
-| **Storage & File Systems** | ZFS, LVM, EXT, Ceph (RBD, RGW) |
+| **Storage & File Systems** | ZFS, LVM, EXT, Ceph (RBD, RGW), any blob storage(Minio, S3, Azure Blob ...) |
 | **Cloud Platforms** | Azure, AWS, GCP |
 | **CI/CD & Automation** | GitHub Actions, GitLab CI, SaltStack, Ansible, Argo(todo) |
 | **Packet Analysis** | Wireshark, tshark, tcpdump, ngrep, custom Go using pcap modules |
