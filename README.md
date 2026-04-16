@@ -30,8 +30,8 @@ Expert in end-to-end system delivery—from architecture through deployment and 
 
 **Platforms:** Linux (Debian/Ubuntu, RHEL), Kubernetes, Docker, LXD
 **Languages:** Go, Python, JavaScript, SQL, Bash
-**Databases:** PostgreSQL (primary with extensions like TimescaleDB), MySQL, SQLite, Redis, Clickhouse, TiKV
-**Networking:** BGP, FRR, MetalLB, nftables, eBPF/XDP
+**Databases:** PostgreSQL (primary with extensions like TimescaleDB), SQLite, Redis, Clickhouse, TiKV
+**Networking:** BGP, FRR, MetalLB, Linux, nftables, eBPF/XDP, Cisco like networking products
 **Observability:** Grafana, Prometheus, Loki, Mimir, Fluent Bit
 **Messaging:** Kafka, custom pub/sub event systems & event hubs
 **Security:** OpenLDAP, Active Directory, OAuth2, OIDC, JWT
@@ -42,16 +42,18 @@ Expert in end-to-end system delivery—from architecture through deployment and 
 ## **SELECTED PROJECTS**
 
 * **certctl** – X.509 certificate management CLI for public/private PKI
-  github.com/jeremybusk/certctl
+  [https://github.com/jeremybusk/certctl](https://github.com/jeremybusk/certctl)
 
 * **Container Systems** – Custom containerized services (PostgreSQL, email relay, etc.)
-  github.com/uvoo/containers
+  [https://github.com/uvoo/containers](https://github.com/uvoo/containers)
 
 * **Custom Network Tooling** – Built eBPF/XDP-based firewall and intrusion prevention systems as well as network data metrics & log collection systems.
 
 * **Observability Platform** – Designed cost-efficient monitoring stack using Grafana ecosystem with blob storage-backed persistence
 
-* **Sumo Logic Archiver** – Built long-term log archival system with compressed, time-partitioned storage and query tooling 
+* **Sumo Logic Archiver** – Built long-term log archival system with compressed, time-partitioned storage and query tooling
+
+* Other repo examples available on request 
 
 ---
 
@@ -73,7 +75,7 @@ Expert in end-to-end system delivery—from architecture through deployment and 
 *2017 – 2019*
 
 * Architected CI/CD pipelines and automation frameworks for GitHub-based workflows
-* Built out on premise and colocation data centers using whitebox hardware & Linux/open source ecosystem.
+* Built out on premise and colocation data centers using whitebox hardware & Linux/open source ecosystems.
 
 ---
 
