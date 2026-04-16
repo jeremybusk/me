@@ -106,6 +106,13 @@ Expert in end-to-end system delivery—from architecture through deployment and 
 
 ---
 
+### **Part or Full Time while at University** — Saddleman, U.S. Senate Y2K Committee, Student Lab Services
+
+*1997 – 1999*
+
+* Windows/Unix system admin, web developer & lab consultant.
+
+
 ## **EDUCATION**
 
 **Utah State University**
