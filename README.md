@@ -113,7 +113,7 @@ Bachelor of Science, Business Information Systems (Cum Laude, 3.5 GPA)
 
 ---
 
-## **CERTIFICATIONS**
+## **CURRENT CERTIFICATIONS**
 
 * Certified Kubernetes Administrator (CKA), 2025
 
