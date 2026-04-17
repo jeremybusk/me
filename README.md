@@ -31,7 +31,7 @@ Expert in end-to-end system delivery—from architecture through deployment and 
 **Platforms:** Linux (Debian/Ubuntu, RHEL), Kubernetes, Docker, LXD
 **Languages:** Go, Python, JavaScript, SQL, Bash
 **Databases:** PostgreSQL (primary with extensions like TimescaleDB), SQLite, Redis, Clickhouse, TiKV
-**Networking:** BGP, FRR, MetalLB, Linux, nftables, eBPF/XDP, Cisco like networking products
+**Networking:** BGP, FRR, MetalLB, Linux, nftables, eBPF/XDP, Cisco or similar
 **Observability:** Grafana, Prometheus, Loki, Mimir, Fluent Bit
 **Messaging:** Kafka, custom pub/sub event systems & event hubs
 **Security:** OpenLDAP, Active Directory, OAuth2, OIDC, JWT
