@@ -92,9 +92,10 @@ Expert in end-to-end system delivery—from architecture through deployment and 
 
 *2005 – 2015*
 
-* Designed and built highly available infrastructure using open-source and white-box hardware
+* Designed and built highly available infrastructure using open-source and white-box hardware in multiple geographically located data centers.
 * Developed monitoring, provisioning, and automation systems
-* Managed full-stack infrastructure across OSI layers 1–7
+* Architected and managed observability/monitoring platforms/software for thousands networking devices, primarliy Cisco, Juniper, MikroTik
+* Top escalation for datacenter systems & automation software.
 
 ---
 
