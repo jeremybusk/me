@@ -10,8 +10,6 @@ GitHub: GitHub /jeremybusk • /uvoo
 
 **Observability • Performance • Security • Distributed Systems • Open Source Platforms**
 
-Senior Architect / Engineer with 25+ years of experience designing, engineering, developing, and operating secure, high-performance distributed systems, infrastructure platforms, and custom software solutions.
-
 My current focus is **architecting, engineering, and developing systems that support observability, performance, and security** using **white-box hardware, open-source software, Linux-based platforms, projects under the Linux Foundation and Cloud Native Computing Foundation ecosystems, plus custom code/scripts when needed.**
 
 Strong hands-on background spanning architecture, backend engineering, frontend development, networking, automation, Kubernetes platforms, Linux systems, telemetry pipelines, and operational excellence. Proven ability to rapidly solve difficult problems and deliver production-ready systems independently or in lean teams.
@@ -31,9 +29,8 @@ Strong hands-on background spanning architecture, backend engineering, frontend 
 
 ### Databases / Data Platforms
 
-* PostgreSQL
+* PostgreSQL (extensions: TimescaleDB)
 * PostgREST
-* TimescaleDB
 * Redis
 * ClickHouse
 * SQLite
@@ -46,9 +43,11 @@ Strong hands-on background spanning architecture, backend engineering, frontend 
 * Loki
 * Mimir
 * Tempo
+* Alloy
 * OpenTelemetry
 * Fluent Bit
 * Packet capture / analytics tooling
+* Custom tooling, primarily using Go, as needed
 
 ### Infrastructure / Platforms
 
@@ -75,9 +74,15 @@ Strong hands-on background spanning architecture, backend engineering, frontend 
 ### Storage / Distributed Systems
 
 * ZFS
-* Ceph (RBD / RGW)
-* Blob Storage (S3 / Azure / MinIO compatible)
+* Ceph (RBD / RGW) usually using Rook Ceph in Kubernetes.
+* Blob/Object Storage (S3 / Azure / MinIO compatible)
 * Distributed systems design
+
+### Public Cloud
+
+* For cost & security reasons I usually recommend only using public cloud for small to medium shops.
+* I also try and be selective of technology when architecting information systems in order to avoid cloud computing platform lock-in.
+* Azure(most hands-on experience), GCP, AWS
 
 ---
 
@@ -190,12 +195,11 @@ Created compressed, time-partitioned archival and query systems for large-scale 
 
 ## Utah State University
 
-Bachelor of Science, Business Information Systems
-Cum Laude (3.5 GPA)
+Bachelor of Science, Business Information Systems (Cum Laude) 2000
 
 ---
 
-# CERTIFICATIONS
+# CURRENT CERTIFICATIONS
 
 * Certified Kubernetes Administrator (CKA) – 2025
 
@@ -206,5 +210,5 @@ Cum Laude (3.5 GPA)
 * Former Top Secret / SCI Clearance (expired)
 * 25+ years Linux and open-source experience
 * Strong preference for practical, cost-efficient, platform-independent systems
-* Comfortable leading initiatives or executing independently
+* Comfortable leading initiatives, working in/with small or large teams or executing independently
 * Passion for solving difficult engineering problems quickly
