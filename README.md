@@ -1,95 +1,210 @@
 # Jeremy Busk
-Residence: Lehi, Utah 84048 
-Mobile: On Request | Email: jeremybusk@gmail.com  
-[GitHub Profile](https://github.com/jeremybusk) | [Uvoo GitHub](https://github.com/uvoo)
+
+
+Lehi, Utah • Mobile on Request • [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com)
+GitHub: GitHub /jeremybusk • /uvoo
 
 ---
 
-## Professional Summary
-Over 25 years of experience building performant, highly scalable data systems and network applications. A self-managed, intense, and highly motivated architect/developer focused on full-stack architecture, network software, and open-source ecosystems (CNCF, Linux). Passionate about solving complex problems to improve product efficiency and delivering outcome-based solutions. I excel at utilizing AI (ChatGPT/Codex) to accelerate development while retaining deep architectural comprehension to debug and refine systems manually. Currently seeking difficult new projects as a lead/senior architect or developer for internal or customer-facing tools.
+# SENIOR ARCHITECT / ENGINEER / DEVELOPER
 
-**Core Philosophy:** * **Infrastructure:** Advocate for on-premise, white-box hardware and Kubernetes (Kubeadm) on LXD/OKD(OpenShift) clusters/Debian over public cloud for optimal cost and security, though capable of leveraging Azure/AWS/GCP when required. 
-* **Architecture:** Focus on PostgreSQL (and PostgREST for rapid APIs), Go, and React running in Docker containers on Kubernetes with Ingress NGINX/Envoy. 
-* **Team Dynamics:** Capable of operating in large environments but prefer the speed and efficiency of small, lean teams or solo execution.
+**Observability • Performance • Security • Distributed Systems • Open Source Platforms**
 
----
+Senior Architect / Engineer with 25+ years of experience designing, engineering, developing, and operating secure, high-performance distributed systems, infrastructure platforms, and custom software solutions.
 
-## Key Projects & Resources
-* **[certctl](https://github.com/jeremybusk/certctl):** A simple yet exquisite X.509 CLI public/private certificate management tool.
-* **[Container Repositories](https://github.com/uvoo/containers):** Custom personal container builds for microservices ranging from authenticated email relays to custom PostgreSQL deployments.
-* Many others available on request.
+My current focus is **architecting, engineering, and developing systems that support observability, performance, and security** using **white-box hardware, open-source software, Linux-based platforms, projects under the Linux Foundation and Cloud Native Computing Foundation ecosystems, plus custom code/scripts when needed.**
+
+Strong hands-on background spanning architecture, backend engineering, frontend development, networking, automation, Kubernetes platforms, Linux systems, telemetry pipelines, and operational excellence. Proven ability to rapidly solve difficult problems and deliver production-ready systems independently or in lean teams.
 
 ---
 
-## Technical Skills
+# CURRENT TECHNICAL FOCUS
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Programming Languages** | Golang, Python, Javascript/React, BASH, SH, Powershell, TCL, LUA |
-| **Databases & KV Stores** | PostgreSQL, SQLite, MySQL, TiKV, Redis, RocksDB (Familiar with Mongo, InfluxDB, Memcached, TimescaleDB extension) |
-| **Containerization & Virtualization** | Kubernetes (Kubeadm), Docker, LXC/LXD, Proxmox VE, KVM/libvirt, VMWare ESXi/vSphere, UCS, OKD/OpenShift |
-| **Observability & Logging** | Grafana Ecosystem (Alloy, Loki, Mimir, Tempo), Prometheus, OpenSearch, Elastic, Beats, Fluent-bit, SumoLogic, Splunk |
-| **Networking & Routing** | NGINX, Envoy, HAProxy, F5 BIG-IP, BGP, FRR, MetalLB |
-| **Security & Firewalls** | netfilter (nftables/iptables), eBPF with XDP/TC, pfSense, Suricata, Snort, OpenVAS, Nessus, Nmap, Kali, OSQuery |
-| **Authentication & IAM** | OAuth 2.0(AuthZ), OIDC(AuthN), JWT, IdPs, Keycloak, OpenLDAP, Active Directory, Custom Datastores, Public Cloud |
-| **Web & API** | React, PostgREST, REST, GraphQL, JSON, XML SOAP, Bootstrap, jQuery, HTML/CSS |
-| **Storage & File Systems** | ZFS, LVM, EXT, Ceph (RBD, RGW), any blob storage(Minio, S3, Azure Blob ...) |
-| **Cloud Platforms** | Azure, AWS, GCP |
-| **CI/CD & Automation** | GitHub Actions, GitLab CI, SaltStack, Ansible, Argo(todo) |
-| **Packet Analysis** | Wireshark, tshark, tcpdump, ngrep, custom Go using pcap modules |
+### Languages / Development
+
+* Go
+* Python
+* React
+* JavaScript / TypeScript
+* Connect-Go
+* Bash / Shell scripting
+
+### Databases / Data Platforms
+
+* PostgreSQL
+* PostgREST
+* TimescaleDB
+* Redis
+* ClickHouse
+* SQLite
+* TiKV
+
+### Observability / Monitoring
+
+* Prometheus
+* Grafana Labs stack
+* Loki
+* Mimir
+* Tempo
+* OpenTelemetry
+* Fluent Bit
+* Packet capture / analytics tooling
+
+### Infrastructure / Platforms
+
+* Linux (Debian / Ubuntu / RHEL)
+* Kubernetes (kubeadm)
+* Docker
+* LXD / LXC
+* QEMU
+* KVM
+* VMware
+* Proxmox
+
+### Networking / Security
+
+* BGP
+* FRRouting
+* MetalLB
+* Netfilter / nftables / iptables
+* eBPF / XDP / TC
+* Wireshark / tshark / tcpdump
+* IDS / IPS
+* IAM / OAuth2 / OIDC / JWT / LDAP / AD
+
+### Storage / Distributed Systems
+
+* ZFS
+* Ceph (RBD / RGW)
+* Blob Storage (S3 / Azure / MinIO compatible)
+* Distributed systems design
 
 ---
 
-## Career History
+# CORE EXPERTISE
 
-### Site Reliability/Infrastructure Engineer & Insights Team Technical Lead
-**Willis Towers Watson** | South Jordan, UT | *Sept 2019 – Aug 2026*
-* Architected and managed infrastructure utilizing Azure, Kubernetes, Docker, and VMware. 
-* Used Identity and Access Management (IAM) for resource control of resources.
-* Managed extensive observability pipelines using Prometheus, Fluentd, Sumo Logic, Zabbix, PagerDuty, and the Grafana Stack (Grafana, Loki, Mimir).
-* Developed custom applications and automation scripts in Go, Python, and BASH for interfacing with public/private cloud services.
+* Distributed Systems Architecture & Design
+* Observability Platforms for Performance & Security
+* Full-Stack Engineering (Go + React + PostgreSQL)
+* Kubernetes & Container Platforms
+* Linux Infrastructure Engineering
+* Network Architecture & Routing
+* Security Engineering & Hardening
+* Custom Tooling & Automation
+* Cost-Efficient Self-Hosted Platforms
+* Rapid Delivery of Complex Solutions
+
+---
+
+# SELECTED PROJECTS
+
+### certctl
+
+X.509 certificate lifecycle management CLI for public/private PKI.
+GitHub available upon request.
+
+### Container Systems
+
+Custom containerized services including PostgreSQL, mail relays, application platforms, and utility services.
+
+### Custom Network Tooling
+
+Developed eBPF/XDP-based firewall, intrusion prevention, network metrics, packet capture, and traffic analysis systems.
+
+### Observability Platform Design
+
+Built cost-efficient logging / metrics / monitoring platforms using Grafana ecosystem tools with blob/object storage backed retention.
+
+### Long-Term Log Archiver
+
+Created compressed, time-partitioned archival and query systems for large-scale telemetry retention.
+
+---
+
+# PROFESSIONAL EXPERIENCE
+
+## Willis Towers Watson — Utah
+
+### Site Reliability / Infrastructure Engineer / Technical Lead
+
+**2019 – 2026**
+
+* Led infrastructure, reliability, and observability initiatives across Kubernetes and Azure environments
+* Built custom automation and internal tooling using Go, Python, and Bash
+* Designed logging, metrics, and monitoring systems using Grafana, Loki, Mimir, Prometheus
+* Worked across IAM, Terraform, CI/CD, GitHub Actions, enterprise services
+
+---
+
+## Pyrofex Corporation — Utah
 
 ### Site Reliability Engineer
-**Pyrofex Corporation** | Utah | *Nov 2017 – Aug 2019*
-* Served as the CI/CD architect, managing GitHub/Gitlab repositories and driving automation pipelines.
-* Built out on premise datacenter and collocation datacenter racks for hosting & CI/CD services.
-* Built high performance baremetal whitebox servers that were Debian based to run services using Proxmox, LXD, Virtualbox, & Docker.
-* Managed all system & network security including firewalls(nftables/pfSense).
 
-### Software Engineer / Full Stack Developer
-**Veracity Networks** | Utah | *2015 – 2017*
-* Developed website functions utilizing Python, PHP, Javascript, HTML, and PostgreSQL.
-* Acted as the escalation point for complex systems infrastructure and application issues.
+**2017 – 2019**
 
-### Network/Systems Architect & Automation Developer
-**Veracity Networks** | Utah | *2005 – 2015*
-* Led systems infrastructure, software applications, provisioning, and automation in a fast-paced environment.
-* Designed and enforced comprehensive monitoring across all services.
-* Built highly available, performative, cost-effective infrastructure solutions using white-box hardware and open-source software, covering OSI Layers 1 through 7.
-* Architected monitoring solutions using OpenNMS, Nagios, Splunk, Zabbix(mostly) and some custom tooling I built mainly to collect and make network device logs centralized and easily searchable without Splunk breaking the bank.
-
-### Information Systems Security Manager
-**Defense Information Systems Agency** | Hill Air Force Base, UT | *2003 – 2005*
-* Managed and secured HP Unix/Windows systems within a highly secure engineering environment. TS/SCIF facilities.
-* Escalation point to other teams with infosec support as needed. Enforced security compliancy.
-* External & internal penetration testing with tools like Nessus.
-
-### Network Security Engineer
-**Defense Information Systems Agency** | Hill Air Force Base, UT | *2000 – 2003*
-* Lead engineer for designing, deploying, and managing firewall clusters and core network architecture.
-* Conducted internal vulnerability assessments and utilized packet capture technologies for deep-dive application troubleshooting.
+* Architected CI/CD pipelines and automation systems
+* Built on-premise and colocation infrastructure using white-box hardware and Linux
+* Managed security controls, firewalling, and deployment platforms
 
 ---
 
-## Education & Certifications
+## Veracity Networks — Utah
 
-**Bachelor of Science, Business Information Systems**
-Utah State University | Logan, UT | *1994 – 1995, 1998 – 2000*
-* Graduated Cum Laude (3.5 GPA) while working concurrently most of the time. *(Note: Gap reflects full-time volunteer service in Oklahoma, 1996–1997).*
+### Software Engineer / Full Stack Developer
 
-**Certifications & Clearances**
-* **CKA (Certified Kubernetes Administrator):** 2025
-* **Security Clearance:** Previously held Top Secret with SCI Access (Conducted 2000, Expired 2007).
+**2015 – 2017**
 
-## Profesional References:
-* Available on request.
+* Developed internal and customer-facing systems using Python, PHP, JavaScript, and PostgreSQL
+* Senior escalation point for infrastructure and software issues
+
+### Network / Systems Architect & Automation Developer
+
+**2005 – 2015**
+
+* Designed and operated geographically distributed infrastructure using open source and white-box hardware
+* Built provisioning, monitoring, observability, and automation systems
+* Supported thousands of network devices (Cisco, Juniper, MikroTik, others)
+* Top escalation engineer for datacenter systems and software platforms
+
+---
+
+## Defense Information Systems Agency — Hill Air Force Base, Utah
+
+### Information Systems Security Manager
+
+**2003 – 2005**
+
+* Managed security for Unix and Windows systems in secure environments
+* Conducted compliance and vulnerability assessments
+
+### Network Security Engineer
+
+**2000 – 2003**
+
+* Designed firewall clusters and secure network architectures
+* Performed packet-level troubleshooting and security assessments
+
+---
+
+# EDUCATION
+
+## Utah State University
+
+Bachelor of Science, Business Information Systems
+Cum Laude (3.5 GPA)
+
+---
+
+# CERTIFICATIONS
+
+* Certified Kubernetes Administrator (CKA) – 2025
+
+---
+
+# ADDITIONAL
+
+* Former Top Secret / SCI Clearance (expired)
+* 25+ years Linux and open-source experience
+* Strong preference for practical, cost-efficient, platform-independent systems
+* Comfortable leading initiatives or executing independently
+* Passion for solving difficult engineering problems quickly
