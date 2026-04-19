@@ -117,7 +117,7 @@ Custom containerized services including PostgreSQL, mail relays, application pla
 
 ### Custom Network Tooling
 
-Developed eBPF/XDP-based firewall, intrusion prevention, network metrics, packet capture, and traffic analysis systems.
+Developed eBPF/XDP-based firewall, intrusion prevention, tcp/http proxies, network metrics, packet capture, and traffic analysis systems.
 
 ### Observability Platform Design
 
