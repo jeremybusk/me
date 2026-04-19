@@ -47,7 +47,11 @@ Strong hands-on background spanning architecture, backend engineering, frontend 
 * OpenTelemetry
 * Fluent Bit
 * Packet capture / analytics tooling
-* Custom tooling, primarily using Go, as needed
+* Custom tooling, primarily using Go, as needed.
+
+### Distributed Event Streaming Pub/Sub
+
+Apache Kafka or the lighter non Java NATS - Azure Event Hubs & others in the past but Kafka ecosystem is tough to beat.
 
 ### Infrastructure / Platforms
 
