@@ -29,12 +29,12 @@ Strong hands-on background spanning architecture, backend engineering, frontend 
 
 ### Databases / Data Platforms
 
-* PostgreSQL (extensions: TimescaleDB)
+* PostgreSQL/cloudnative-pg
+* Common PG extensions: TimescaleDB, plpython3u, PostGIS, cstore_fdw, pg_cron)
 * PostgREST
 * Redis
 * ClickHouse
 * SQLite
-* TiKV
 
 ### Observability / Monitoring
 
@@ -59,6 +59,7 @@ Strong hands-on background spanning architecture, backend engineering, frontend 
 * KVM
 * VMware
 * Proxmox
+* OKD/OpenShift - Note, I only played with it a long time ago when it still was OpenShift Origin but I'm interested with it especially for security.
 
 ### Networking / Security
 
@@ -70,6 +71,8 @@ Strong hands-on background spanning architecture, backend engineering, frontend 
 * Wireshark / tshark / tcpdump
 * IDS / IPS
 * IAM / OAuth2 / OIDC / JWT / LDAP / AD
+* CNI: Cilium, Calico, and Kubenet but mostly Cilium now unless reason not to
+* Container runtimes: Containerd and CRI-O (CRI-O on K8s)
 
 ### Storage / Distributed Systems
 
