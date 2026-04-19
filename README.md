@@ -1,8 +1,8 @@
 # Jeremy Busk
 
 
-Lehi, Utah • Mobile on Request • [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com)
-GitHub: GitHub /jeremybusk • /uvoo
+Lehi, UT 84048 - USA • Mobile on Request • [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com)
+GitHub: /jeremybusk • /uvoo
 
 ---
 
