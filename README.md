@@ -32,7 +32,7 @@ Strong hands-on background spanning architecture, backend engineering, frontend 
 * PostgreSQL/cloudnative-pg
 * Common PG extensions: TimescaleDB, plpython3u, PostGIS, cstore_fdw, pg_cron)
 * PostgREST
-* Redis
+* Redis/Dragonfly
 * ClickHouse
 * SQLite
 
