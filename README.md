@@ -78,6 +78,12 @@ Apache Kafka or the lighter non Java NATS - Azure Event Hubs & others in the pas
 * CNI: Cilium, Calico, and Kubenet but mostly Cilium now unless reason not to
 * Container runtimes: Containerd and CRI-O (CRI-O on K8s)
 
+### Service Proxy
+
+* NGINX
+* HAProxy
+* Envoy
+
 ### Storage / Distributed Systems
 
 * ZFS
@@ -89,7 +95,7 @@ Apache Kafka or the lighter non Java NATS - Azure Event Hubs & others in the pas
 
 * For cost & security reasons I usually recommend only using public cloud for small to medium shops.
 * I also try and be selective of technology when architecting information systems in order to avoid cloud computing platform lock-in.
-* Azure(most hands-on experience), GCP, AWS
+* Azure(most hands-on experience), GCP, AWS. Understanding how technologies work under the hood makes it easier to jump between, especially with AI how-to summaries.
 
 ---
 
