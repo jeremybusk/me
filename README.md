@@ -24,7 +24,6 @@ Strong hands-on background spanning architecture, backend engineering, frontend 
 * Python
 * React
 * JavaScript / TypeScript
-* Connect-Go
 * Bash / Shell scripting
 
 ### Databases / Data Platforms
@@ -47,11 +46,11 @@ Strong hands-on background spanning architecture, backend engineering, frontend 
 * OpenTelemetry
 * Fluent Bit
 * Packet capture / analytics tooling
-* Custom tooling, primarily using Go, as needed.
+* Custom tooling, primarily using Go & SQL stores, as needed.
 
 ### Distributed Event Streaming Pub/Sub
 
-Apache Kafka or the lighter non Java NATS - Azure Event Hubs & others in the past but Kafka ecosystem is tough to beat.
+Apache Kafka or the lighter non-Java using NATS - You can use cloud like Azure Event Hubs & others but Kafka ecosystem is tough to beat.
 
 ### Infrastructure / Platforms
 
@@ -61,9 +60,9 @@ Apache Kafka or the lighter non Java NATS - Azure Event Hubs & others in the pas
 * LXD / LXC
 * QEMU
 * KVM
-* VMware
+* VMware (migrations to new platforms)
 * Proxmox
-* OKD/OpenShift - Note, I only played with it a long time ago when it still was OpenShift Origin but I'm interested with it especially for security.
+* OKD/OpenShift, Podman - Note, I only played with it a long time ago when it still was OpenShift Origin but this is a great security focused platform that should be considered.
 
 ### Networking / Security
 
@@ -114,14 +113,20 @@ Apache Kafka or the lighter non Java NATS - Azure Event Hubs & others in the pas
 
 ---
 
-# SELECTED PROJECTS
+# RECENT SELECTED PROJECTS
+
+These days, I usually use AI ChatGPT/codex or sometimes Gemini but can do it without it just takes me a lot longer.  
+
+### unode (current primary project)
+
+Go, PostgreSQL based server, agent that creates an automation, security, performance monitoring/management tool similar to Tanium/CrowdStrike Falcon for endpoints like Wndows, Linux & Darwin/MacOS. It uses custom shell commands, gopsutil, state enformacement using SaltStack/Ansisble yaml config templates to control the nodes.  Also can manage AntiVirus like Defender or ClamAV.
 
 ### certctl
 
 X.509 certificate lifecycle management CLI for public/private PKI.
 GitHub available upon request.
 
-### Container Systems
+### Various Container Systems
 
 Custom containerized services including PostgreSQL, mail relays, application platforms, and utility services.
 
@@ -131,11 +136,15 @@ Developed eBPF/XDP-based firewall, intrusion prevention, tcp/http proxies, netwo
 
 ### Observability Platform Design
 
-Built cost-efficient logging / metrics / monitoring platforms using Grafana ecosystem tools with blob/object storage backed retention.
+Built cost-efficient logging / metrics / monitoring platforms using Grafana ecosystem tools running on AKS with blob/object storage backed retention.
 
 ### Long-Term Log Archiver
 
 Created compressed, time-partitioned archival and query systems for large-scale telemetry retention.
+
+### ucontrol
+
+PostgreSQL/PostgREST first using plupythonu extention that provides automation platform that uses websockets/Postgres Pub/Sub to provide a secure simplistic REST API. Built yaml/json config files to easily add/update new table columns. React & Ant Design antd for front-end. Consists of postgres(cnpg), postgrest, ucontrol-ui, ucontrol-ws pods. Performs X.509/SSH certificate management with automation like updating different keystores like PKCS12 stores. It's also enables internal ticketing, mintoring, wiki other useful internal tools.
 
 ---
 
