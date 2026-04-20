@@ -96,6 +96,9 @@ Apache Kafka or the lighter non-Java using NATS - You can use cloud like Azure E
 * I also try and be selective of technology when architecting information systems in order to avoid cloud computing platform lock-in.
 * Azure(most hands-on experience), GCP, AWS. Understanding how technologies work under the hood makes it easier to jump between, especially with AI how-to summaries.
 
+### AI
+Primarily Codex/ChatGPT but open to whatever is best for the task at hand. I do caution on becoming over reliant on agents.
+
 ---
 
 # CORE EXPERTISE
