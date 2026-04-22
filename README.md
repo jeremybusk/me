@@ -1,239 +1,176 @@
 # Jeremy Busk
 
+Lehi, Utah • [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com) • GitHub: github.com/jeremybusk
 
-Lehi, UT 84048 - USA • Mobile on Request • [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com)
-GitHub: /jeremybusk • /uvoo
+## SENIOR ARCHITECT / PRINCIPAL ENGINEER
 
----
+**Observability • Distributed Systems • Performance • Security • Open Source Platforms**
 
-# SENIOR ARCHITECT / ENGINEER / DEVELOPER
+Senior architect and engineer with 25+ years of experience designing, building, and operating secure, high-performance distributed systems across Linux, Kubernetes, networking, automation, and observability platforms. Strong hands-on background spanning architecture, backend and frontend development, telemetry pipelines, infrastructure engineering, and operational tooling.
 
-**Observability • Performance • Security • Distributed Systems • Open Source Platforms**
+Specialized in building practical, cost-efficient systems using white-box hardware, open-source software, Linux-based platforms, CNCF technologies, and custom software in Go, Python, SQL, JavaScript, and React. Known for rapidly solving difficult technical problems, delivering production-ready systems, and working effectively either independently or in lean, high-output teams. 
 
-My current focus is **architecting, engineering, and developing systems that support observability, performance, and security** using **white-box hardware, open-source software, Linux-based platforms, projects under the Linux Foundation and Cloud Native Computing Foundation ecosystems, plus custom code/scripts when needed.**
+## CORE STRENGTHS
 
-Strong hands-on background spanning architecture, backend engineering, frontend development, networking, automation, Kubernetes platforms, Linux systems, telemetry pipelines, and operational excellence. Proven ability to rapidly solve difficult problems and deliver production-ready systems independently or in lean teams.
+* Distributed systems architecture
+* Observability platforms for performance and security
+* Kubernetes and container platforms
+* Linux infrastructure engineering
+* Full-stack engineering with Go, React, and PostgreSQL
+* Network architecture, routing, and traffic analysis
+* Security engineering and hardening
+* Custom tooling and automation
+* Cost-efficient self-hosted platform design
+* Rapid delivery of complex technical solutions  
 
----
+## TECHNICAL EXPERTISE
 
-# CURRENT TECHNICAL FOCUS
+**Languages:** Go, Python, TypeScript, JavaScript, React, Bash
 
-### Languages / Development
+**Platforms:** Linux, Kubernetes, Docker, LXD/LXC, KVM, QEMU, Proxmox, VMware
 
-* Go
-* Python
-* React
-* JavaScript / TypeScript
-* Bash / Shell scripting
+**Data & Storage:** PostgreSQL, CloudNativePG, PostgREST, ClickHouse, Redis, Dragonfly, SQLite, ZFS, Ceph, object/blob storage
 
-### Databases / Data Platforms
+**Observability:** Prometheus, Grafana, Loki, Mimir, Tempo, Alloy, OpenTelemetry, Fluent Bit
 
-* PostgreSQL/cloudnative-pg
-* Common PG extensions: TimescaleDB, plpython3u, PostGIS, cstore_fdw, pg_cron)
-* PostgREST
-* Redis/Dragonfly
-* ClickHouse
-* SQLite
+**Networking & Security:** BGP, FRRouting, MetalLB, nftables, iptables, eBPF, XDP, tc, IDS/IPS, OIDC, OAuth2, JWT, LDAP, Active Directory
 
-### Observability / Monitoring
+**Proxy & Traffic:** NGINX, HAProxy, Envoy
 
-* Prometheus
-* Grafana Labs stack
-* Loki
-* Mimir
-* Tempo
-* Alloy
-* OpenTelemetry
-* Fluent Bit
-* Packet capture / analytics tooling
-* Custom tooling, primarily using Go & SQL stores, as needed.
+**Cloud:** Azure, AWS, GCP
 
-### Distributed Event Streaming Pub/Sub
+## SELECTED PROJECTS
 
-Apache Kafka or the lighter non-Java using NATS - You can use cloud like Azure Event Hubs & others but Kafka ecosystem is tough to beat.
+**uNode**
+Architecting and developing a Go- and PostgreSQL-based endpoint automation, security, and performance monitoring platform for Windows, Linux, and macOS. Designed to provide centralized node management, policy/state enforcement, custom command execution, and integrations for security tooling such as Microsoft Defender and ClamAV. 
 
-### Infrastructure / Platforms
+**certctl**
+Built an X.509 certificate lifecycle management CLI for public and private PKI workflows, focused on practical certificate issuance, automation, and lifecycle operations. 
 
-* Linux (Debian / Ubuntu / RHEL)
-* Kubernetes (kubeadm)
-* Docker
-* LXD / LXC
-* QEMU
-* KVM
-* VMware (migrations to new platforms)
-* Proxmox
-* OKD/OpenShift, Podman - Note, I only played with it a long time ago when it still was OpenShift Origin but this is a great security focused platform that should be considered.
+**Custom Network Tooling**
+Developed eBPF/XDP-based firewalling, intrusion prevention, traffic inspection, packet capture, proxying, and network metrics systems for high-performance, security-focused environments. 
 
-### Networking / Security
+**Observability Platform Design**
+Designed and built cost-efficient logging, metrics, and monitoring platforms using Grafana ecosystem components on Kubernetes, with blob/object-storage-backed long-term retention. 
 
-* BGP
-* FRRouting
-* MetalLB
-* Netfilter / nftables / iptables
-* eBPF / XDP / TC
-* Wireshark / tshark / tcpdump
-* IDS / IPS
-* IAM / OAuth2 / OIDC / JWT / LDAP / AD
-* CNI: Cilium, Calico, and Kubenet but mostly Cilium now unless reason not to
-* Container runtimes: Containerd and CRI-O (CRI-O on K8s)
+**Long-Term Telemetry Archiver**
+Created compressed, time-partitioned archival and query systems for large-scale telemetry retention and retrieval. 
 
-### Service Proxy
+**uControl**
+Built a PostgreSQL/PostgREST-based automation and internal tooling platform using PostgreSQL pub/sub and WebSockets, with React and Ant Design frontend components. Platform included certificate automation, keystore updates, and internal operational tools such as ticketing and wiki-style functionality. 
 
-* NGINX
-* HAProxy
-* Envoy
+## PROFESSIONAL EXPERIENCE
 
-### Storage / Distributed Systems
+### Willis Towers Watson — Utah
 
-* ZFS
-* Ceph (RBD / RGW) usually using Rook Ceph in Kubernetes.
-* Blob/Object Storage (S3 / Azure / MinIO compatible)
-* Distributed systems design
-
-### Public Cloud
-
-* For cost & security reasons I usually recommend only using public cloud for small to medium shops.
-* I also try and be selective of technology when architecting information systems in order to avoid cloud computing platform lock-in.
-* Azure(most hands-on experience), GCP, AWS. Understanding how technologies work under the hood makes it easier to jump between, especially with AI how-to summaries.
-
-### AI
-Primarily Codex/ChatGPT but open to whatever is best for the task at hand. I do caution on becoming over reliant on agents.
-
----
-
-# CORE EXPERTISE
-
-* Distributed Systems Architecture & Design
-* Observability Platforms for Performance & Security
-* Full-Stack Engineering (Go + React + PostgreSQL)
-* Kubernetes & Container Platforms
-* Linux Infrastructure Engineering
-* Network Architecture & Routing
-* Security Engineering & Hardening
-* Custom Tooling & Automation
-* Cost-Efficient Self-Hosted Platforms
-* Rapid Delivery of Complex Solutions
-
----
-
-# RECENT SELECTED PROJECTS
-
-These days, I usually use AI ChatGPT/codex or sometimes Gemini but can do it without it just takes me a lot longer.  
-
-### unode (current primary project)
-
-Go, PostgreSQL based server, agent that creates an automation, security, performance monitoring/management tool similar to Tanium/CrowdStrike Falcon for endpoints like Wndows, Linux & Darwin/MacOS. It uses custom shell commands, gopsutil, state enformacement using SaltStack/Ansisble yaml config templates to control the nodes.  Also can manage AntiVirus like Defender or ClamAV.
-
-### certctl
-
-X.509 certificate lifecycle management CLI for public/private PKI.
-GitHub available upon request.
-
-### Various Container Systems
-
-Custom containerized services including PostgreSQL, mail relays, application platforms, and utility services.
-
-### Custom Network Tooling
-
-Developed eBPF/XDP-based firewall, intrusion prevention, tcp/http proxies, network metrics, packet capture, and traffic analysis systems.
-
-### Observability Platform Design
-
-Built cost-efficient logging / metrics / monitoring platforms using Grafana ecosystem tools running on AKS with blob/object storage backed retention.
-
-### Long-Term Log Archiver
-
-Created compressed, time-partitioned archival and query systems for large-scale telemetry retention.
-
-### ucontrol
-
-PostgreSQL/PostgREST first using plupythonu extention that provides automation platform that uses websockets/Postgres Pub/Sub to provide a secure simplistic REST API. Built yaml/json config files to easily add/update new table columns. React & Ant Design antd for front-end. Consists of postgres(cnpg), postgrest, ucontrol-ui, ucontrol-ws pods. Performs X.509/SSH certificate management with automation like updating different keystores like PKCS12 stores. It's also enables internal ticketing, mintoring, wiki other useful internal tools.
-
----
-
-# PROFESSIONAL EXPERIENCE
-
-## Willis Towers Watson — Utah
-
-### Site Reliability / Infrastructure Engineer / Technical Lead
-
+**Site Reliability / Infrastructure Engineer / Technical Lead**
 **2019 – 2026**
 
 * Led infrastructure, reliability, and observability initiatives across Kubernetes and Azure environments
-* Built custom automation and internal tooling using Go, Python, and Bash
-* Designed logging, metrics, and monitoring systems using Grafana, Loki, Mimir, Prometheus
-* Worked across IAM, Terraform, CI/CD, GitHub Actions, enterprise services
+* Built internal automation and operational tooling using Go, Python, and Bash
+* Designed and supported logging, metrics, and monitoring systems using Prometheus, Grafana, Loki, and Mimir
+* Worked across IAM, Terraform, CI/CD, GitHub Actions, and enterprise platform services  
 
----
+### Pyrofex Corporation — Utah
 
-## Pyrofex Corporation — Utah
-
-### Site Reliability Engineer
-
+**Site Reliability Engineer**
 **2017 – 2019**
 
-* Architected CI/CD pipelines and automation systems
-* Built on-premise and colocation infrastructure using white-box hardware and Linux
-* Managed security controls, firewalling, and deployment platforms
+* Architected CI/CD pipelines and deployment automation
+* Built and supported on-premises and colocation infrastructure using Linux and white-box hardware
+* Managed security controls, firewalling, and platform operations  
 
----
+### Veracity Networks — Utah
 
-## Veracity Networks — Utah
-
-### Software Engineer / Full Stack Developer
-
+**Software Engineer / Full Stack Developer**
 **2015 – 2017**
 
 * Developed internal and customer-facing systems using Python, PHP, JavaScript, and PostgreSQL
-* Senior escalation point for infrastructure and software issues
+* Served as a senior escalation point for infrastructure and software issues  
 
-### Network / Systems Architect & Automation Developer
-
+**Network / Systems Architect & Automation Developer**
 **2005 – 2015**
 
-* Designed and operated geographically distributed infrastructure using open source and white-box hardware
+* Designed and operated geographically distributed infrastructure using open-source software and white-box hardware
 * Built provisioning, monitoring, observability, and automation systems
-* Supported thousands of network devices (Cisco, Juniper, MikroTik, others)
-* Top escalation engineer for datacenter systems and software platforms
+* Supported thousands of network devices across multi-vendor environments
+* Served as a top escalation engineer for datacenter systems and software platforms  
 
----
+### Defense Information Systems Agency — Hill Air Force Base, Utah
 
-## Defense Information Systems Agency — Hill Air Force Base, Utah
-
-### Information Systems Security Manager
-
+**Information Systems Security Manager**
 **2003 – 2005**
 
 * Managed security for Unix and Windows systems in secure environments
-* Conducted compliance and vulnerability assessments
+* Conducted compliance and vulnerability assessments  
 
-### Network Security Engineer
-
+**Network Security Engineer**
 **2000 – 2003**
 
 * Designed firewall clusters and secure network architectures
-* Performed packet-level troubleshooting and security assessments
+* Performed packet-level troubleshooting and security assessments  
 
----
+## EDUCATION
 
-# EDUCATION
+**Utah State University**
+Bachelor of Science, Business Information Systems, Cum Laude
+2000  
 
-## Utah State University
+## CERTIFICATION
 
-Bachelor of Science, Business Information Systems (Cum Laude) 2000
+**Certified Kubernetes Administrator (CKA)** — 2025  
 
----
+## ADDITIONAL
 
-# CURRENT CERTIFICATIONS
-
-* Certified Kubernetes Administrator (CKA) – 2025
-
----
-
-# ADDITIONAL
-
-* Former Top Secret / SCI Clearance (expired)
-* 25+ years Linux and open-source experience
+* Former Top Secret / SCI clearance (expired)
+* 25+ years of Linux and open-source experience
 * Strong preference for practical, cost-efficient, platform-independent systems
-* Comfortable leading initiatives, working in/with small or large teams or executing independently
-* Passion for solving difficult engineering problems quickly
+* Comfortable leading initiatives, contributing within teams, or executing independently  
+
+---
+
+A few important improvements I made:
+
+* Removed casual or weakening phrasing like “I can do it without AI, it just takes longer.”
+* Cut commentary that sounds opinionated in a resume but not employer-focused.
+* Reduced oversized tool lists and turned them into tighter expertise sections.
+* Reframed your work as architecture + delivery + operational impact.
+* Kept the hands-on depth, which is one of your strongest differentiators.
+
+My honest take: this should be tailored into at least two versions.
+
+One version should target:
+**Principal / Staff / Senior Architect / Platform Engineering / Observability / Infrastructure roles**
+
+Another version should target:
+**Security-focused platform / systems / SRE / infrastructure engineering roles**
+
+That second version would lean harder into:
+
+* eBPF/XDP
+* IDS/IPS
+* network security
+* traffic analysis
+* endpoint control
+* PKI / certificate automation
+
+The first version would lean harder into:
+
+* distributed systems
+* platform design
+* observability
+* Kubernetes
+* PostgreSQL
+* Go/Python
+* internal tooling and automation
+
+I also think your title should probably be one of these instead of “Senior Architect / Engineer / Developer”:
+
+* **Principal Systems Architect**
+* **Principal Platform Engineer**
+* **Senior Architect / Principal Engineer**
+* **Principal Infrastructure & Observability Engineer**
+
+“Developer” undersells you.
+
+If you want, I can turn this into a polished one-page or two-page final resume next.
