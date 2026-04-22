@@ -33,7 +33,7 @@ Specialized in building practical, cost-efficient systems using white-box hardwa
 
 **Observability:** Prometheus, Grafana, Loki, Mimir, Tempo, Alloy, OpenTelemetry, Fluent Bit, Zabbix
 
-**Networking & Security:** NG Firewalls like Palo Alto, IDS/IPS, OIDC, OAuth2, JWT, LDAP, Active Directory, IdPs, Keycloak.
+**Networking & Security:** NG Firewalls like Palo Alto, Linux Netfilter/eBPF/XDP/TC, IDS/IPS, OIDC, OAuth2, JWT, LDAP, Active Directory, IdPs, Keycloak.
 
 **Proxy & Traffic:** NGINX, HAProxy, Envoy, Azure Application Gateway (AGW)
 
