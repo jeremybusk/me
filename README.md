@@ -31,11 +31,15 @@ Specialized in building practical, cost-efficient systems using white-box hardwa
 
 **Data & Storage:** PostgreSQL, CloudNativePG, PostgREST, ClickHouse, Redis, Dragonfly, SQLite, ZFS, Ceph, object/blob storage
 
-**Observability:** Prometheus, Grafana, Loki, Mimir, Tempo, Alloy, OpenTelemetry, Fluent Bit
+**Observability:** Prometheus, Grafana, Loki, Mimir, Tempo, Alloy, OpenTelemetry, Fluent Bit, Zabbix
 
-**Networking & Security:** BGP, FRRouting, MetalLB, nftables, iptables, eBPF, XDP, tc, IDS/IPS, OIDC, OAuth2, JWT, LDAP, Active Directory
+**Networking & Security:** NG Firewalls like Palo Alto, IDS/IPS, OIDC, OAuth2, JWT, LDAP, Active Directory, IdPs, Keycloak.
 
-**Proxy & Traffic:** NGINX, HAProxy, Envoy
+**Proxy & Traffic:** NGINX, HAProxy, Envoy, Azure Application Gateway (AGW)
+
+**Idempotent Deployments** Terraform & thin shell wrappers with helm/kubectl for k8s or lite scripting when Terraform doesn't make sense.
+
+**CI/CD Workflows** Mostly Github Actions or GitLab but comfortable with any. 
 
 **Cloud:** Azure, AWS, GCP
 
@@ -54,7 +58,7 @@ Developed eBPF/XDP-based firewalling, intrusion prevention, traffic inspection, 
 Designed and built cost-efficient logging, metrics, and monitoring platforms using Grafana ecosystem components on Kubernetes, with blob/object-storage-backed long-term retention. 
 
 **Long-Term Telemetry Archiver**
-Created compressed, time-partitioned archival and query systems for large-scale telemetry retention and retrieval. 
+Created compressed, time-partitioned archival and query systems for large-scale telemetry retention and retrieval viewable via cli or through Loki. Basically many years of archived Sumo Logic data for security audit retention purposes. 
 
 **uControl**
 Built a PostgreSQL/PostgREST-based automation and internal tooling platform using PostgreSQL pub/sub and WebSockets, with React and Ant Design frontend components. Platform included certificate automation, keystore updates, and internal operational tools such as ticketing and wiki-style functionality. 
