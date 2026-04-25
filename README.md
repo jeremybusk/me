@@ -33,14 +33,28 @@ I’m a unicorn and a renaissance man. I think these are rare in the industry an
 
 ---
 
+## CORE STRENGTHS
+
+* Distributed systems architecture and platform design
+* Observability platforms for performance, reliability, and security
+* Kubernetes, container, and Linux infrastructure engineering
+* Full-stack software engineering with Go, React, PostgreSQL, PostgREST & Python with RLS.
+* Network architecture, routing, and TCP/IP traffic analysis
+* Security engineering, hardening, and automation
+* Custom tooling, telemetry pipelines, and internal platforms
+* Cost-efficient self-hosted and hybrid-cloud platform design
+* Rapid delivery of complex technical solutions
+
+---
+
 ## Core Tools & Projects
 
 ### Monitoring & Logging
+* Encourage open platforms & OpenTelemetry approach by using standarized, vendor neutral designs that avoid vendor lock-in.
 * **[Alloy](https://github.com/grafana/alloy):** Built an auth proxy in Go for Mimir running in k8s for this.
 * **[Loki](https://github.com/grafana/loki):** Used to monitor Kubernetes and endpoints cost-effectively using blob storage. Used persistent volumes in k8s clusters to collect and ship to blob storage for the long term.
 * **[Mimir](https://github.com/grafana/mimir):** Excellent for k8s via the Prometheus ecosystem. Used Kubernetes to store data on cheap blob storage like S3, MinIO, Azure Blob, and Ceph Object Gateway.
-* **[Tempo](https://github.com/grafana/tempo):** Have not used this as much; usually rely on Azure Monitor & Application Insights, Wireshark, Azure tools, or custom code.
-* **[OpenSearch](https://github.com/opensearch-project/opensearch) / [Elasticsearch](https://github.com/elastic/elasticsearch):** Prefer this or Loki over Sumo Logic or Splunk.
+* **[OpenSearch](https://github.com/opensearch-project/opensearch) / [Elasticsearch](https://github.com/elastic/elasticsearch):** Prefer this or Loki over Sumo Logic or Splunk though I have worked with both in the past.
 * **[Beats](https://github.com/elastic/beats)**
 * **[Kafka](https://github.com/apache/kafka):** Or similar Go-based alternatives. Built an archiver tool for Sumo Logic to store extensive data (3+ years) to blob storage in time-partitioned zstd formats for cheap, long-term audit storage.
 * **[Fluent Bit](https://github.com/fluent/fluent-bit):** Used for generic SNMP log collection (v2, v3) and shipped to Sumo Logic collectors.
