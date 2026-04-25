@@ -74,7 +74,7 @@ I’m a unicorn and a renaissance man. I think these are rare in the industry an
 * **Network Configuration Management:** RANCID, NOC Project, SaltStack, Ansible/AWX, Custom (Python, BASH, NetBox)
 * **NOS:** Cisco IOS, Arista EOS, Juniper, Brocade
 * **OS:** Linux (Redhat/CentOS with SELinux/facls/auditd, Ubuntu/Debian AppAmor), Windows
-* **OSI Model:** Deep understanding of IP-based communication protocols and applications.
+* **OSI Model:** Deep understanding of IP-based communication protocols and applications. Have worked extensively with layer 1 - 7.
 * **ORM:** GORM, Bun, Ent, SQLAlchemy
 * **Packet Analyzer Tools:** Wireshark, tshark, tcpdump, ngrep, Custom Go (pcap modules) & eBPG/XDP/TC on Linux, Azure Network Watcher
 * **Programming Languages:**
