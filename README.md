@@ -12,9 +12,10 @@
     * [github.com/uvoo](https://github.com/uvoo)
 * **Container Code:** [github.com/uvoo/containers](https://github.com/uvoo/containers)
 
-### Example Personal Projects
+### Personal Repo Projects
 * **[certctl](https://github.com/jeremybusk/certctl):** Simple yet extremely funcitonal X.509 CLI public/private certificate management tool.
-* **[uvoo/containers](https://github.com/uvoo/containers):** Random containers built over the years for different functions, from authenticated email relays to custom PostgreSQL containers.
+* **[email-relay](https://github.com/uvoo/containers/tree/main/uvoo/email-relay):** Simple yet effective smtp authenticated/ip whitelist email relay when you want something other than SendGrid or other cloud platforms.
+* **[mimirproxy](https://github.com/uvoo/containers/tree/main/uvoo/mimirproxy):** This proxy authenticates user and then adds X-Scope-OrgID value to header for multi-tenancy in mimir. It adds org_id label in mimir.
 
 ---
 
