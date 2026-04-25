@@ -119,12 +119,12 @@ Tech I'm looking into in the near future. Talso Linux for nodes in K8S clusters,
 * Built custom DNS/BIND DHCP services for hyperscale
 * Served as an escalation point for systems infrastructure and applications.
 
-### Veracity Networks
+### Veracity Networks (was Broadweave)
 **Network / Systems Architect / Engineer – Architecture & Automation Developer**
 *2005 – 2015 | Utah*
 * Designed and enforced monitoring over all services in a fast-paced start-up environment.
 * Managed systems infrastructure, software applications, provisioning, and automation functions (Layer 1 through 7).
-* Built highly available, cost-effective solutions using whitebox hardware and open-source software to control costs.
+* Built highly available, cost-effective solutions using whitebox hardware, Linux and open-source software to control costs in multiple many data centers we owned.
 
 ### Defense Information Systems Agency (DISA)
 **Information Systems Security Manager TS & SCIF Datacenters**
