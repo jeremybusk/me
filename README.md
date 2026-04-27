@@ -249,7 +249,7 @@ I have a deep security background, so I tend to build with security in mind from
 
 # Preferred Working Style
 
-I prefer to work close to the system, usually from a terminal, and I value simple, understandable, secure, and maintainable designs. I like to compare technologies before choosing a direction and avoid lock-in when better options exist. I enjoy brainstorming, challenging assumptions, and building practical systems that work in production.
+I prefer to work close to the system, usually from a terminal, and I value simple, understandable, secure, and maintainable designs. I like to compare technologies before choosing a direction and avoid lock-in when better options exist. I enjoy brainstorming, challenging assumptions, and building practical systems that work in production. I like taking lead and have continously done so in my career. I'm extremely self driven. No PM needed just ask my past PMs.
 
 I am comfortable working independently, but I also enjoy collaborating with strong teams where ideas are tested and improved. I prefer automation over repeated manual work and try to apply DRY principles wherever practical. I have been a primary lead in every company I've been with.
 
