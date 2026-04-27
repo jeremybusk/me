@@ -1,33 +1,5 @@
 # Jeremy Busk
 
-**Address:** Lehi, Utah 84048
-**Mobile:** on request
-**Email:** [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com)
-
-**Current Resume:**
-[https://github.com/jeremybusk/me](https://github.com/jeremybusk/me)
-
-**Wiki:**
-[https://tech.uvoo.io/](https://tech.uvoo.io/)
-Personal project and information notepad/dump for projects worked on over the years using MediaWiki with markdown.
-
-**Open Source Project:**
-[https://gitlab.com/pyrofex/numifex](https://gitlab.com/pyrofex/numifex)
-
-## Online Profiles & Repositories
-
-* **Personal Git Repositories (Sandboxing & Ideas):**
-    * [github.com/jeremybusk](https://github.com/jeremybusk)
-    * [github.com/uvoo](https://github.com/uvoo)
-* **Container Code:** [github.com/uvoo/containers](https://github.com/uvoo/containers)
-
-### Personal Repo Projects
-* **[certctl](https://github.com/jeremybusk/certctl):** Simple yet extremely funcitonal X.509 CLI public/private certificate management tool. I feel this shows my architecture skills and ability to architect & deliver concise resolutions for problems that seem complex. This is rare in industry IMO.
-* **[email-relay](https://github.com/uvoo/containers/tree/main/uvoo/email-relay):** Simple yet effective smtp authenticated/ip whitelist email relay when you want something other than SendGrid or other cloud platforms.
-* **[mimirproxy](https://github.com/uvoo/containers/tree/main/uvoo/mimirproxy):** This proxy authenticates user and then adds X-Scope-OrgID value to header for multi-tenancy in mimir. It adds org_id label in mimir.
-* **[clickhouse, fluentbit, minio, haproxy, docker-compose example](https://github.com/jeremybusk/example-clickhouse/tree/main/docker-compose-clickhouse-minio-fluentbit-agg-haproxy)** simple yet elegant design example in docker I've done many times over the years for collecting and storing data. It's easy to shard or partition this out, and many read queries to scale to extremely large.
-* Others available on request. I'm happy to do take home projects as I like building solutions to problems.
-
 **Location:** Lehi, Utah  
 **Mobile:** Available on request  
 **Email:** [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com)  
@@ -39,18 +11,20 @@ Personal project and information notepad/dump for projects worked on over the ye
 
 ## Online Profiles & Projects
 
+- ** Linked In ** [https://www.linkedin.com/in/jeremy-busk/](https://www.linkedin.com/in/jeremy-busk/)
 - **Personal GitHub:** [github.com/jeremybusk](https://github.com/jeremybusk)
 - **Uvoo GitHub:** [github.com/uvoo](https://github.com/uvoo)
-- **Container Code:** [github.com/uvoo/containers](https://github.com/uvoo/containers)
-- **Open Source Project:** [gitlab.com/pyrofex/numifex](https://gitlab.com/pyrofex/numifex)
+
 
 ### Selected Personal Projects
 
+- **[ClickHouse / HAProxy / Fluent Bit / MinIO Example](https://github.com/jeremybusk/example-clickhouse/tree/main/docker-compose-clickhouse-minio-fluentbit-agg-haproxy)** — Docker Compose example for log/data collection and storage patterns.
 - **[certctl](https://github.com/jeremybusk/certctl)** — X.509 public/private certificate management CLI. Designed to show architecture, security, and practical implementation ability around problems that often become overly complex.
 - **[email-relay](https://github.com/uvoo/containers/tree/main/uvoo/email-relay)** — Simple authenticated and IP-whitelisted SMTP relay for cases where SendGrid or other cloud platforms are not preferred.
 - **[mimirproxy](https://github.com/uvoo/containers/tree/main/uvoo/mimirproxy)** — Authentication proxy that injects `X-Scope-OrgID` for Grafana Mimir multi-tenancy and adds an `org_id` label.
 - **[demobox](https://github.com/jeremybusk/demobox)** — Containerized Ubuntu-based lab environment for learning Linux and basic services using LXD/Docker.
-- **[ClickHouse / HAProxy / Fluent Bit / MinIO Example](https://github.com/jeremybusk/example-clickhouse/tree/main/docker-compose-clickhouse-minio-fluentbit-agg-haproxy)** — Docker Compose example for log/data collection and storage patterns.
+- **Open Source Project:** [gitlab.com/pyrofex/numifex](https://gitlab.com/pyrofex/numifex)
+- Others available on request.
 
 ---
 
@@ -60,7 +34,7 @@ Senior infrastructure, systems, network, security, and software engineer with de
 
 I like to model, architect, build, and operate systems that are stable, performant, manageable, secure, and useful. I prefer open source and open projects whenever possible because of the flexibility, transparency, scale, and security benefits they can provide. I do not avoid commercial software when it is the right tool, but I prefer systems that remain understandable, controllable, and cost-effective.
 
-My work is usually hands-on from research and architecture through implementation, automation, deployment, monitoring, and long-term operations. I have a strong bias toward getting things done, avoiding vaporware, using proven methods when they work, and building solutions that can scale beyond their initial use case.
+My work is usually hands-on from research and architecture through implementation, automation, deployment, monitoring, and long-term operations. I have a strong bias toward getting things done, avoiding vaporware, using proven methods when they work, and building solutions that can scale beyond their initial use case. I like choosing best of bread & hate vendor lock-in so always have an alternative solution.
 
 I have a deep security background, so I tend to build with security in mind from the beginning. I also have broad experience across all layers of the OSI model, from packet-level troubleshooting and firewall design to application-layer reverse proxies, APIs, databases, monitoring platforms, and full-stack internal tools.
 
@@ -100,11 +74,11 @@ I have a deep security background, so I tend to build with security in mind from
 
 ## Linux, Systems & Virtualization
 
-- Linux: Red Hat, CentOS, Ubuntu, Debian
+- Linux: Red Hat, CentOS, Ubuntu, Debian, Alpine
 - Windows Server and Active Directory environments
-- ZFS, LVM, EXT filesystems
-- KVM/libvirt, Proxmox VE, VMware ESXi/vSphere, UCS
-- LXD, Docker, Kubernetes
+- CephFS, ZFS, LVM, EXT filesystems
+- QEMU/KVM/libvirt, Proxmox VE, VMware ESXi/vSphere/UCS, VirtualBox
+- LXD/LXC, Docker, Kubernetes
 - Shell operations, troubleshooting, logs, system services, patching, and hardening
 
 ## Networking & Protocols
@@ -133,12 +107,11 @@ I have a deep security background, so I tend to build with security in mind from
 - Top Secret / SCI background
 - Secure architecture and access-control design
 
-## Application Delivery & Web Infrastructure
+## Application Delivery L4/L7 Loadblancers & Web Infrastructure
 
-- NGINX
-- OpenResty / NGINX with Lua
+- NGINX with Lua
 - HAProxy
-- F5 BIG-IP
+- F5 BIG-IP Tcl
 - Apache
 - IIS
 - Tomcat
@@ -189,6 +162,7 @@ I have a deep security background, so I tend to build with security in mind from
 - Grafana
 - Grafana Mimir
 - Loki
+- Alloy
 - InfluxDB v1/v2
 - Sumo Logic
 - Sensu Go
@@ -234,6 +208,9 @@ I have a deep security background, so I tend to build with security in mind from
 
 ## Web, UI & Internal Tooling
 
+
+- Current primary stack: Vite, React, Antd, PostgREST, Postgres/plpythonu, SQLite, Go/Python
+
 - Python Flask
 - Python Pyramid
 - PHP
@@ -260,14 +237,13 @@ I have a deep security background, so I tend to build with security in mind from
 - GitLab
 - JIRA
 - Confluence
-- Request Tracker
-- Odoo
 - MediaWiki
 - VisualEditor
 - Parsoid
 - Vim
 - Visual Studio Code
 - nano
+- Markdown
 
 ---
 
