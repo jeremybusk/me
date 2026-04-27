@@ -13,7 +13,7 @@ Below is the same information reformatted into a cleaner **long-form Markdown re
 
 **Wiki:**
 [https://tech.uvoo.io/](https://tech.uvoo.io/)
-Personal project and information notepad/dump for projects worked on over the year.
+Personal project and information notepad/dump for projects worked on over the years.
 
 **Open Source Project:**
 [https://gitlab.com/pyrofex/numifex](https://gitlab.com/pyrofex/numifex)
@@ -39,364 +39,261 @@ Personal project and information notepad/dump for projects worked on over the ye
 * **[certctl](https://github.com/jeremybusk/certctl):** Simple yet extremely funcitonal X.509 CLI public/private certificate management tool. I feel this shows my architecture skills and ability to architect & deliver concise resolutions for problems that seem complex. This is rare in industry IMO.
 * **[email-relay](https://github.com/uvoo/containers/tree/main/uvoo/email-relay):** Simple yet effective smtp authenticated/ip whitelist email relay when you want something other than SendGrid or other cloud platforms.
 * **[mimirproxy](https://github.com/uvoo/containers/tree/main/uvoo/mimirproxy):** This proxy authenticates user and then adds X-Scope-OrgID value to header for multi-tenancy in mimir. It adds org_id label in mimir.
-* **[https://github.com/jeremybusk/demobox](https://github.com/jeremybusk/demobox)** Simple way to learn about Linux & basic services that are containerized Ubuntu with LXD/Docker.
+* **[https://github.com/jeremybusk/demobox](https://github.com/jeremybusk/demobox)** Simple way to learn about Linux & basic services that are containerized Ubuntu with LXD/Docker.# Jeremy Busk
+
+**Location:** Lehi, Utah  
+**Mobile:** Available on request  
+**Email:** [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com)  
+**GitHub:** [github.com/jeremybusk](https://github.com/jeremybusk)  
+**Resume:** [github.com/jeremybusk/me](https://github.com/jeremybusk/me)  
+**Wiki / Project Notes:** [tech.uvoo.io](https://tech.uvoo.io/)  
 
 ---
 
-# Professional Focus
+## Online Profiles & Projects
 
-I like to model and build cost-effective, stable, secure, performant, manageable, and scalable information systems that promote and do beneficial things in the world. I prefer to use open source or open projects whenever possible. I donate money to open source projects because I value the freedom, scale, transparency, protection, and security it can provide.
+- **Personal GitHub:** [github.com/jeremybusk](https://github.com/jeremybusk)
+- **Uvoo GitHub:** [github.com/uvoo](https://github.com/uvoo)
+- **Container Code:** [github.com/uvoo/containers](https://github.com/uvoo/containers)
+- **Open Source Project:** [gitlab.com/pyrofex/numifex](https://gitlab.com/pyrofex/numifex)
 
-I have spent a lot of time designing, building, and operating systems around open source technologies. However, I always try to use proven methods when they will get the job done instead of inventing my own less effective way. I like to think big, even when starting small. I am able to learn new technologies easily, and I like to evolve, build, and innovate to make things better than they currently are.
+### Selected Personal Projects
 
-Because I have a deep security background, I tend to build with security in mind from the start.
+- **[certctl](https://github.com/jeremybusk/certctl)** — X.509 public/private certificate management CLI. Designed to show architecture, security, and practical implementation ability around problems that often become overly complex.
+- **[email-relay](https://github.com/uvoo/containers/tree/main/uvoo/email-relay)** — Simple authenticated and IP-whitelisted SMTP relay for cases where SendGrid or other cloud platforms are not preferred.
+- **[mimirproxy](https://github.com/uvoo/containers/tree/main/uvoo/mimirproxy)** — Authentication proxy that injects `X-Scope-OrgID` for Grafana Mimir multi-tenancy and adds an `org_id` label.
+- **[demobox](https://github.com/jeremybusk/demobox)** — Containerized Ubuntu-based lab environment for learning Linux and basic services using LXD/Docker.
+- **[hostcmd](https://github.com/jeremybusk/hostcmd)** — Private repository, available on request.
+- **[ClickHouse / HAProxy / Fluent Bit / MinIO Example](https://github.com/jeremybusk/example-clickhouse/tree/main/docker-compose-clickhouse-minio-fluentbit-agg-haproxy)** — Docker Compose example for log/data collection and storage patterns.
 
-Much of my work centers around creating information solutions using Linux and open source tools. I do not have an aversion to commercial software when it is needed, but I prefer the flexibility and control of open source. After working with many programming languages and architectures, I have been trying to push more of my code and logic into PostgreSQL and then use supporting applications and languages where needed.
+---
 
-During the last two years covered in this resume, I spent significant time doing continuous integration and continuous deployment in a heavy Debian and Ubuntu environment. I designed, implemented, and managed infrastructure in colocation environments while touching all layers of the OSI model. I also performed full-stack development using HTTP and HTTPS reverse proxy technologies such as NGINX and Lua to provide customized control over JSON-RPC services.
+# Professional Profile
 
-I usually research, architect, and then implement solutions. I enjoy brainstorming and having everyone’s ideas challenged in order to find the best solution. I like getting things done and have a long track record of doing that without needing a project manager to push me. I like to see the fruits of my labor, and I am not a fan of vaporware.
+Senior infrastructure, systems, network, security, and software engineer with deep experience designing and building secure, scalable, cost-effective information systems. Strong background across Linux, networking, observability, automation, CI/CD, virtualization, containers, databases, application delivery, and security-focused architecture.
 
-I am able to learn most anything quickly. I do not believe in technology lock-in just because something is all I understand at a given time. I usually perform comparisons when starting new projects to find the best-of-breed tool or approach. My breadth and depth in data systems allow for this.
+I like to model, architect, build, and operate systems that are stable, performant, manageable, secure, and useful. I prefer open source and open projects whenever possible because of the flexibility, transparency, scale, and security benefits they can provide. I do not avoid commercial software when it is the right tool, but I prefer systems that remain understandable, controllable, and cost-effective.
 
-I believe every problem has a solution. You just need to keep applying the hammer of effort with intelligence until it is accomplished.
+My work is usually hands-on from research and architecture through implementation, automation, deployment, monitoring, and long-term operations. I have a strong bias toward getting things done, avoiding vaporware, using proven methods when they work, and building solutions that can scale beyond their initial use case.
+
+I have a deep security background, so I tend to build with security in mind from the beginning. I also have broad experience across all layers of the OSI model, from packet-level troubleshooting and firewall design to application-layer reverse proxies, APIs, databases, monitoring platforms, and full-stack internal tools.
 
 ---
 
 # Summary of Qualifications
 
-* Almost 20 years working deeply with IP-based protocol applications and networked devices in large environments with complex information structures.
-* Deep understanding of how interconnected devices work and how they communicate.
-* Deep understanding and experience with all seven layers of the OSI model.
-* Performed extensive IP troubleshooting using packet capture, packet analysis, and systems tools to correct application access and performance issues.
-* Built on-demand tools, often full-stack, around IP-based systems for many different purposes.
-* Excellent relational data modeling skills.
-* Excellent conceptual and implementation skills.
-* Strong propensity for getting things done well and quickly.
-* Self-motivated and able to work well under pressure.
-* Comfortable having work critiqued and focused on seeing the project succeed.
-* Strong believer in automation and programmatic scripting.
-* Applies the DRY principle whenever possible by preferring agile automation over error-prone human repetition.
-* Experienced with numerous CLI-based operating systems and applications.
-* Prefers the command line.
-* Uses Vim.
-* Uses spaces.
-* Almost 20 years spending most work time researching in a web browser and doing work in a terminal.
-* Ethics and good values are important.
-* Believes products should have positive value for those who use them and those affected by them.
-* Prefers not to participate in technology that has negative or questionable effects.
-* Views the ISC2 Code of Ethics as a good starting point:
-
-  * [https://www.isc2.org/Ethics](https://www.isc2.org/Ethics)
+- Deep experience with IP-based systems, networked applications, and complex infrastructure environments.
+- Strong understanding of all seven layers of the OSI model.
+- Extensive packet-level troubleshooting using tools such as Wireshark, tcpdump, tshark, ngrep, and related systems tools.
+- Experienced designing, building, and operating Linux-heavy infrastructure across physical, virtual, containerized, and cloud environments.
+- Strong automation mindset using Bash, Python, Go, PowerShell, SaltStack, Ansible, Terraform, CI/CD pipelines, and custom tooling.
+- Experienced building internal tools, portals, APIs, provisioning systems, monitoring systems, reporting systems, and security-focused infrastructure services.
+- Strong relational data modeling skills, with a preference for PostgreSQL where appropriate.
+- Experienced with observability and monitoring platforms including Zabbix, Prometheus, Grafana, Sumo Logic, Sensu, SolarWinds, Fluent Bit, OpenTelemetry, and custom checks.
+- Strong background in application delivery, reverse proxies, load balancing, firewalling, web filtering, IDS/IPS, authentication, and identity integration.
+- Comfortable working independently, owning projects end-to-end, and delivering without needing heavy project management oversight.
+- Experienced working under pressure, across teams, and on accelerated projects tied to critical business needs.
+- Values ethical technology, practical security, transparency, reliability, and systems that create positive value.
 
 ---
 
-# Skills
-
-## Application Delivery Controllers
-
-* NGINX
-* OpenResty, including NGINX with Lua
-* HAProxy
-* F5 BIG-IP
-
-## Centralized Authentication
-
-* OpenLDAP
-* Active Directory
-* Custom datastores using:
-
-  * PostgreSQL
-  * MySQL
-  * Microsoft SQL Server
-  * Redis
-* FreeRADIUS
-
-## CI/CD
-
-* GitLab
-* Travis CI
-* Concourse CI
-
-## Content Management Systems
-
-* WordPress
-* Joomla
-
-## Databases and Datastores
-
-* PostgreSQL
-* MySQL
-* SQLite
-* Redis
-* MongoDB
-* memcached
-
-Preferred databases include PostgreSQL, MySQL, and SQLite for simple or embedded projects.
-
-## DHCP
-
-* ISC DHCP
-* Dnsmasq
-
-## DNS
-
-* PowerDNS Authoritative Server
-* PowerDNS Recursor
-* ISC BIND
-
-## File Systems and Storage
-
-* ZFS
-* LVM
-* EXT
-
-## Firewalls — Application and Stateful
-
-* nftables
-* netfilter
-* iptables
-* pfSense
-* Check Point
-* Palo Alto
-* Sidewinder
-
-## HTTP Servers
-
-* NGINX
-* Apache
-* Python-based HTTP servers
-* Tomcat
-* Jetty
-
-## IDS / IPS
-
-* Suricata
-* Snort
-
-## IPAM
-
-* NOC Project
-* NetBox
-* Other IPAM systems
-
-## Log Collection
-
-* Splunk
-* Sumo Logic
-* rsyslog
-* Elastic Stack
-
-Currently working on moving more systems toward Elastic Stack, though not fully completed at the time of this resume.
-
-## Message Brokers
-
-* RabbitMQ
-
-## MTA / Email
-
-* Zimbra
-* Postfix
-* qmail, including significant work in the past
-
-## Monitoring and Management
-
-* Zabbix
-* nfdump
-* ManageEngine, past experience
-* Nagios, past experience
-* Sensu Go, some experience
-
-## Network Configuration Management
-
-* RANCID
-* NOC Project
-* SaltStack
-* Ansible
-* Custom tooling using:
-
-  * Python
-  * Bash
-  * NetBox
-
-## Network Operating Systems
-
-* Cisco
-* Brocade
-* Juniper
-* Linux networking tools such as:
-
-  * `ip`
-  * `brctl`
-
-## Operating Systems
-
-* Linux
-
-  * Red Hat
-  * CentOS
-  * Ubuntu
-  * Debian
-* Windows
-
-Primary daily operating environment is Linux.
-
-## OSI Model
-
-* Deep understanding of the OSI model.
-* Deep understanding of many IP-based communication protocols and applications.
-
-## ORM
-
-* SQLAlchemy
-
-## Packet Analyzers
-
-* Wireshark
-* tshark
-* tcpdump
-* ngrep
-* iptraf-ng
-
-## Programming Languages
-
-* Python
-* Go / Golang
-
-## Project Management and Ticketing
-
-* JIRA
-* Request Tracker
-* Odoo
-
-## Protocols
-
-* SNMP
-* sFlow
-* NetFlow
-* SIP
-* HTTP
-* HTTPS
-* TFTP
-* SSL/TLS
-* IPsec
-* IPv4
-* IPv6
-* TCP
-* UDP
-* SMTP
-* SMTPS
-* DNS
-* BIND
-* DHCP / BOOTP
-* NFS
-* CIFS
-* FTP
-* FTPS
-* SSH
-* SFTP
-* Telnet
-* iSCSI
-* SAS
-* AAA
-* RADIUS
-* TACACS+
-* IPMI
-* Syslog
-* rsync
-* HSRP
-* VRRP
-* OSPF
-* BGP
-* BFD
-* IGMP
-* PIM
-
-## RESTful APIs and Data Formats
-
-* PostgREST
-* JSON
-* XML
-* SOAP
-
-## Scripting
-
-* Bash
-* Python
-* Tcl Expect, some automation
-* Lua for embeddable scripting
-* PowerShell
-
-## Text Editors
-
-* Vim
-* nano
-* Visual Studio Code when wanted
-
-## Version Control
-
-* Git
-* GitHub
-* GitLab
-
-## Virtualization and Containerization
-
-* LXD
-* Proxmox VE
-* KVM / libvirt
-* Docker
-* VMware ESXi / vSphere
-* UCS
-* Kubernetes
-
-Preference is white-box hardware running CentOS, Debian, or Ubuntu Linux where practical.
-
-## Vulnerability Assessment
-
-* OpenVAS
-* Nessus
-* nmap
-* Kali Linux
-* Custom scripts and code
-
-## Web Backend Frameworks
-
-* Python Flask
-* Python Pyramid
-
-## Web Frontend / GUI / Visualization
-
-* PHP
-* HTML5
-* JavaScript
-* TypeScript
-* jQuery
-* DataTables
-* Bootstrap
-* MDBootstrap
-* C3.js
-* Highcharts JS
-* webpack
-* Chrome DevTools
-* Node.js
-* npm
-* PostgREST
-
-## Wiki and Documentation
-
-* Atlassian Confluence
-* MediaWiki
-* VisualEditor
-* Parsoid Node.js
+# Core Technical Strengths
+
+## Architecture & Engineering
+
+- Distributed systems architecture
+- Linux infrastructure design
+- Network architecture
+- Systems engineering
+- Security-focused architecture
+- Datacenter and colocation infrastructure
+- Hybrid cloud and on-premises systems
+- Cost optimization through open-source and right-sized infrastructure
+- White-box hardware and Linux-based platforms
+- End-to-end system design from concept through operations
+
+## Linux, Systems & Virtualization
+
+- Linux: Red Hat, CentOS, Ubuntu, Debian
+- Windows Server and Active Directory environments
+- ZFS, LVM, EXT filesystems
+- KVM/libvirt, Proxmox VE, VMware ESXi/vSphere, UCS
+- LXD, Docker, Kubernetes
+- Shell operations, troubleshooting, logs, system services, patching, and hardening
+
+## Networking & Protocols
+
+- Routing and switching
+- Cisco, Brocade, Juniper, Linux networking
+- OSPF, BGP, BFD, RIP, HSRP, VRRP, IGMP, PIM
+- IPv4, IPv6, TCP, UDP, ICMP
+- SNMP, sFlow, NetFlow, syslog, IPMI
+- DNS, DHCP, NTP, TFTP, FTP, FTPS, SSH, SFTP, NFS, CIFS, iSCSI
+- SIP, SMTP, SMTPS, HTTP, HTTPS, SSL/TLS, IPsec
+- RADIUS, TACACS+, AAA
+- Packet capture and protocol analysis
+
+## Security
+
+- Firewall architecture and operations
+- nftables, iptables/netfilter, pfSense, Palo Alto, Check Point, Sidewinder
+- IDS/IPS: Suricata, Snort
+- Vulnerability assessment: OpenVAS, Nessus, nmap, Kali Linux, custom tooling
+- SELinux
+- Web filtering and DNS filtering
+- Host and network hardening
+- Security compliance and audit support
+- DoD security experience
+- Top Secret / SCI background
+- Secure architecture and access-control design
+
+## Application Delivery & Web Infrastructure
+
+- NGINX
+- OpenResty / NGINX with Lua
+- HAProxy
+- F5 BIG-IP
+- Apache
+- IIS
+- Tomcat
+- Jetty
+- Reverse proxy design
+- HTTP header/body transformation
+- Application-layer access control
+- Load balancing and failover
+- TLS termination and certificate handling
+
+## Databases, APIs & Data Modeling
+
+- PostgreSQL
+- MySQL
+- SQLite
+- Redis
+- Microsoft SQL Server
+- MongoDB
+- memcached
+- SQLAlchemy
+- PostgREST
+- JSON, XML, SOAP
+- Relational data modeling
+- Database-backed applications and internal tools
+
+## Automation, CI/CD & Configuration Management
+
+- Bash
+- Python
+- Go / Golang
+- PowerShell
+- Lua
+- Tcl Expect
+- GitHub Actions
+- GitLab CI/CD
+- Travis CI
+- Concourse CI
+- SaltStack
+- Ansible
+- Terraform
+- RANCID
+- Custom automation frameworks and scripts
+
+## Observability, Monitoring & Logging
+
+- Zabbix
+- Prometheus
+- Grafana
+- Grafana Mimir
+- Loki
+- InfluxDB v1/v2
+- Sumo Logic
+- Sensu Go
+- SolarWinds Network Performance Monitor
+- Splunk
+- rsyslog
+- Elastic Stack / OpenSearch
+- Fluent Bit / Fluentd
+- OpenTelemetry
+- nfdump
+- SNMP polling and traps
+- Custom script checks and monitoring logic
+
+## Identity, Authentication & Access
+
+- Active Directory
+- LDAP / OpenLDAP
+- Entra ID
+- Keycloak
+- OAuth 2.0
+- OpenID Connect
+- FreeRADIUS
+- Custom identity and authorization datastores using PostgreSQL, MySQL, MSSQL, and Redis
+
+## Cloud & Platform Experience
+
+- Azure Kubernetes Service
+- Azure Firewall
+- Azure Load Balancer
+- Azure Application Gateway
+- Azure DNS
+- Azure Monitor
+- Azure Application Insights
+- Azure Blob Storage
+- Azure Disk Storage
+- Azure Virtual Machines
+- Azure App Services
+- Azure IAM / Entra
+- AWS
+- Google Compute Engine
+- DigitalOcean
+- Hybrid VMware and Azure environments
+
+## Web, UI & Internal Tooling
+
+- Python Flask
+- Python Pyramid
+- PHP
+- HTML5
+- JavaScript
+- TypeScript
+- jQuery
+- DataTables
+- Bootstrap
+- MDBootstrap
+- Ractive.js
+- Highcharts
+- C3.js / D3-based visualization
+- Node.js
+- npm
+- webpack
+- Chrome DevTools
+- WordPress
+
+## Documentation, Collaboration & Project Tools
+
+- Git
+- GitHub
+- GitLab
+- JIRA
+- Confluence
+- Request Tracker
+- Odoo
+- MediaWiki
+- VisualEditor
+- Parsoid
+- Vim
+- Visual Studio Code
+- nano
 
 ---
 
-# Additional Information
+# Preferred Working Style
 
-**Random list of favorite tools:**
-[https://wiki.zoobey.com/pages/viewpage.action?pageId=3309579](https://wiki.zoobey.com/pages/viewpage.action?pageId=3309579)
+I prefer to work close to the system, usually from a terminal, and I value simple, understandable, secure, and maintainable designs. I like to compare technologies before choosing a direction and avoid lock-in when better options exist. I enjoy brainstorming, challenging assumptions, and building practical systems that work in production.
 
-This site is new and a work in progress after the previous site was removed. It is currently a random dumping ground for current work and project information.
+I am comfortable working independently, but I also enjoy collaborating with strong teams where ideas are tested and improved. I prefer automation over repeated manual work and try to apply DRY principles wherever practical. I have been a primary lead in every company I've been with.
+
+Ethics and values matter to me. I prefer to build technology that has positive value for the people who use it and the people affected by it. I view the ISC2 Code of Ethics as a good starting point: [https://www.isc2.org/Ethics](https://www.isc2.org/Ethics)
+
+I really like building solutions for difficult problems. The harder the better. If politics & posturing for personal gain (money/power) is your primary focus please don't ask me to be on your team.
 
 ---
 
@@ -413,7 +310,7 @@ This site is new and a work in progress after the previous site was removed. It 
 [https://www.willistowerswatson.com/](https://www.willistowerswatson.com/)
 
 **Address:**
-10975 Sterling View Dr, South Jordan, UT 84095
+38 East Scenic Point Drive Floor 2. Draper, Utah 84020
 
 ### Role Overview
 
@@ -423,10 +320,11 @@ Manage infrastructure and systems with a team of SREs. Responsibilities include 
 
 * Created/Managed Azure Kubernetes Service/K8S  multi-zone cluster CI/CD pipeline using GithubActions for Insights/Observability platform running Fluentbit, Grafana, Mimir, Loki, InfluxDB v1/v2, SumoLogic agent health cron tasks & other utils to support hybrid VMWare and Azure VMs/Containers as well as Intranet health checks for customer data exchanges (usually firewalled SFTP instances) and support apps like AWX for Ansible.   
 * Manage infrastructure and systems with a team of SREs.
-* Performed all design and administrative functions on F5 BIG-IP application delivery controllers.
+* Primary on all L4/L7 Loadbalancers like, F5 Big IP, HaProxy, NGINX, Azure Application Gateway
+* Performed all design and administrative functions on F5 BIG-IP application delivery controllers. Primary in repo creation/migration to Azure AGW.
 * Implemented a multi-datacenter Zabbix monitoring system.
 * Integrated Zabbix monitoring with GitHub and Nexmo/PagerDuty for alerts.
-* Created HAProxy loadbalancing Front-End for our NetApp S
+* Created HAProxy loadbalancing Front-End for our NetApp Object/Blob Storage
 * Used existing monitoring templates and created new templates for:
 
   * Performance tracking
@@ -434,17 +332,17 @@ Manage infrastructure and systems with a team of SREs. Responsibilities include 
   * Notifications
 * Wrote code and automation to get infrastructure work done.
 * Used Bash, Python, and Go as preferred languages for automation.
+* Created and managed SFTP data exchange app with GHA/saltstack/python on RHEL 7 so we could sunset Globalscape EFT as primary secure data exchange for clients/carriers. Created dynamic filtering for simple IPS. Allowed SMB tied into Active Directory so files could be picked up/edited and dropped back in using SMB 
 
 ### Technologies Used
 
 * F5 BIG-IP
-* vSphere
-* UCS
+* VMmare/vSphere/UCS
 * SaltStack
 * Ubuntu
-* RHEL
+* Redhat Enterprise Linux (RHEL)
 * Windows
-* Active Directory
+* Active Directory/LDAP
 * Ansible
 * PowerShell
 * Bash
@@ -464,13 +362,13 @@ Manage infrastructure and systems with a team of SREs. Responsibilities include 
 * Nexmo
 * Sumo Logic - like Splunk or Elastic Stack (ELK Stack)
 * NGINX
-* LXD
+* LXD/LXC/Docker
 * BIND
 * Dnsmasq
-* GitLab CI/CD in lab environments
-* Golang
-* Azure Firewall, LB, Application Gateway (AGW), DNS, Monitor, Azure Monitor Application Insights, Blob/Disk Storage, IAM/Entra, Virtual Machines (VMs), App Services
+* Go/Golang
+* Azure Firewall, LB, Application Gateway (AGW), DNS, Monitor, Azure Monitor Application Insights, Blob/Disk Storage, IAM/Entra, Virtual Machines (VMs), App Services, Network
 * Terraform
+* Postfix
 
 ### Monitoring and Alerting
 
@@ -483,7 +381,9 @@ Monitoring technologies included:
 * Custom monitoring logic
 * Azure Monitor Application Insights
 * Fluentd - Fluent Bit
-* syslog, snmp, snmp traps, OpenTelemetry
+* syslog, snmp, snmp traps
+* OpenTelemetry
+* Grafana Stack(Mimir, Loki), Prometheus, PD/SMTP integrations
 
 ### HAProxy Blob Store Frontend
 
@@ -516,28 +416,25 @@ Still manage a full rack for them as needed.
 
 ### Role Overview
 
-Played the role of systems engineer, network engineer, SRE, and occasional full-stack developer to support hosted applications. Built and managed rack infrastructure from the ground up.
+Played the role of systems engineer, network engineer, SRE,  and occasional full-stack developer to support hosted applications. Built and managed rack infrastructure from the ground up. I architected and deployed a lot of systems.
 
-The environment included a couple of racks with interesting hardware used to build fairly large build and test systems.
+The environment included a couple of racks in collocated and corporate building using white box hardware used to build fairly large build and test systems.
 
 ### Development Environment
 
 * Agile software environment with approximately five developers.
 * Used GitLab Issues.
-* Heavy use of GitLab and GitLab CI/CD.
-* Worked extensively with Git over the final year and a half.
-* Became proficient with CI/CD and complex runner setups.
+* Heavy use of GitLab and GitLab CI/CD, Git.
+* Became proficient with CI/CD and complex runner setups with many languages
 
 ### Virtualization, Containers, and Infrastructure
 
 Used multiple virtualization and container technologies, including:
 
-* KVM
-* QEMU
-* virsh
-* VirtualBox
+* QEMU/KVM/libvirt for VMs
+* VirtualBox for VMs
 * Docker
-* LXD containers
+* LXD/LXC containers
 
 Used both VirtualBox and virsh.
 
@@ -740,7 +637,7 @@ Designed and built a management portal from the ground up using:
 
 * PostgreSQL
 * PostgREST
-* OpenResty
+* OpenResty (NGINX + LUA for L7 HTTP Headers/Response)
 * NGINX
 * Lua
 * Redis
