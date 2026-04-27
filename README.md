@@ -9,20 +9,10 @@
 
 **Wiki:**
 [https://tech.uvoo.io/](https://tech.uvoo.io/)
-Personal project and information notepad/dump for projects worked on over the years.
+Personal project and information notepad/dump for projects worked on over the years using MediaWiki with markdown.
 
 **Open Source Project:**
 [https://gitlab.com/pyrofex/numifex](https://gitlab.com/pyrofex/numifex)
-
-**GitHub:**
-[https://github.com/jeremybusk](https://github.com/jeremybusk)
-
-**Latest Personal Projects:**
-
-* [https://github.com/jeremybusk/unode](https://github.com/jeremybusk/unode)
-
-* [https://github.com/jeremybusk/hostcmd](https://github.com/jeremybusk/hostcmd)
-  Private repository, available on request.
 
 ## Online Profiles & Repositories
 
@@ -35,7 +25,8 @@ Personal project and information notepad/dump for projects worked on over the ye
 * **[certctl](https://github.com/jeremybusk/certctl):** Simple yet extremely funcitonal X.509 CLI public/private certificate management tool. I feel this shows my architecture skills and ability to architect & deliver concise resolutions for problems that seem complex. This is rare in industry IMO.
 * **[email-relay](https://github.com/uvoo/containers/tree/main/uvoo/email-relay):** Simple yet effective smtp authenticated/ip whitelist email relay when you want something other than SendGrid or other cloud platforms.
 * **[mimirproxy](https://github.com/uvoo/containers/tree/main/uvoo/mimirproxy):** This proxy authenticates user and then adds X-Scope-OrgID value to header for multi-tenancy in mimir. It adds org_id label in mimir.
-* **[https://github.com/jeremybusk/demobox](https://github.com/jeremybusk/demobox)** Simple way to learn about Linux & basic services that are containerized Ubuntu with LXD/Docker.# Jeremy Busk
+* **[clickhouse, fluentbit, minio, haproxy, docker-compose example](https://github.com/jeremybusk/example-clickhouse/tree/main/docker-compose-clickhouse-minio-fluentbit-agg-haproxy)** simple yet elegant design example in docker I've done many times over the years for collecting and storing data. It's easy to shard or partition this out, and many read queries to scale to extremely large.
+* Others available on request. I'm happy to do take home projects as I like building solutions to problems.
 
 **Location:** Lehi, Utah  
 **Mobile:** Available on request  
@@ -59,7 +50,6 @@ Personal project and information notepad/dump for projects worked on over the ye
 - **[email-relay](https://github.com/uvoo/containers/tree/main/uvoo/email-relay)** — Simple authenticated and IP-whitelisted SMTP relay for cases where SendGrid or other cloud platforms are not preferred.
 - **[mimirproxy](https://github.com/uvoo/containers/tree/main/uvoo/mimirproxy)** — Authentication proxy that injects `X-Scope-OrgID` for Grafana Mimir multi-tenancy and adds an `org_id` label.
 - **[demobox](https://github.com/jeremybusk/demobox)** — Containerized Ubuntu-based lab environment for learning Linux and basic services using LXD/Docker.
-- **[hostcmd](https://github.com/jeremybusk/hostcmd)** — Private repository, available on request.
 - **[ClickHouse / HAProxy / Fluent Bit / MinIO Example](https://github.com/jeremybusk/example-clickhouse/tree/main/docker-compose-clickhouse-minio-fluentbit-agg-haproxy)** — Docker Compose example for log/data collection and storage patterns.
 
 ---
