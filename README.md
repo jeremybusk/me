@@ -1,22 +1,14 @@
 # Jeremy Busk
 
 **Location:** Lehi, Utah  
-**Mobile:** Available on request  
+**Mobile:** Available on request
+**Linked In:** [https://www.linkedin.com/in/jeremy-busk/](https://www.linkedin.com/in/jeremy-busk/)
 **Email:** [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com)  
-**GitHub:** [github.com/jeremybusk](https://github.com/jeremybusk)  
+**GitHub:** [github.com/jeremybusk](https://github.com/jeremybusk)  [github.com/uvoo](https://github.com/uvoo) 
 **Resume:** [github.com/jeremybusk/me](https://github.com/jeremybusk/me)  
-**Wiki / Project Notes:** [tech.uvoo.io](https://tech.uvoo.io/)  
+**Wiki / Project Notes:** [tech.uvoo.io](https://tech.uvoo.io/)
 
----
-
-## Online Profiles & Projects
-
-- ** Linked In ** [https://www.linkedin.com/in/jeremy-busk/](https://www.linkedin.com/in/jeremy-busk/)
-- **Personal GitHub:** [github.com/jeremybusk](https://github.com/jeremybusk)
-- **Uvoo GitHub:** [github.com/uvoo](https://github.com/uvoo)
-
-
-### Selected Personal Projects
+## Selected Personal Projects
 
 - **[ClickHouse / HAProxy / Fluent Bit / MinIO Example](https://github.com/jeremybusk/example-clickhouse/tree/main/docker-compose-clickhouse-minio-fluentbit-agg-haproxy)** — Docker Compose example for log/data collection and storage patterns.
 - **[certctl](https://github.com/jeremybusk/certctl)** — X.509 public/private certificate management CLI. Designed to show architecture, security, and practical implementation ability around problems that often become overly complex.
@@ -24,7 +16,7 @@
 - **[mimirproxy](https://github.com/uvoo/containers/tree/main/uvoo/mimirproxy)** — Authentication proxy that injects `X-Scope-OrgID` for Grafana Mimir multi-tenancy and adds an `org_id` label.
 - **[demobox](https://github.com/jeremybusk/demobox)** — Containerized Ubuntu-based lab environment for learning Linux and basic services using LXD/Docker.
 - **Open Source Project:** [gitlab.com/pyrofex/numifex](https://gitlab.com/pyrofex/numifex)
-- Others available on request.
+- Other examples available on request.  Ask me for a current chronic problem you have and I'll build you a solution. I've done this through my career and actually love doing it.
 
 ---
 
@@ -129,6 +121,7 @@ I have a deep security background, so I tend to build with security in mind from
 - SQLite
 - Redis
 - Microsoft SQL Server
+- InfluxDB
 - MongoDB
 - memcached
 - SQLAlchemy
@@ -208,9 +201,10 @@ I have a deep security background, so I tend to build with security in mind from
 
 ## Web, UI & Internal Tooling
 
+- Current primary stack: Vite, React, Antd, npm, PostgREST, Postgres/plpythonu, SQLite, Go/Python
+- I use AI now, a lot but am not limited to it. I prefer OpenAI codex due to larger context windows & I just need a no frills agent/AI that Anthropic Claude provides as I already know most of the architecture direction I want to go. I do use Gemini too. Used CoPilot at WTW.
 
-- Current primary stack: Vite, React, Antd, PostgREST, Postgres/plpythonu, SQLite, Go/Python
-
+### Past stacks I worked heavily in
 - Python Flask
 - Python Pyramid
 - PHP
