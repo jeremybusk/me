@@ -1,7 +1,3 @@
-Below is the same information reformatted into a cleaner **long-form Markdown resume / professional profile** format, while preserving the content and details from your pasted text. 
-
----
-
 # Jeremy Busk
 
 **Address:** Lehi, Utah 84048
