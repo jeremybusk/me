@@ -4,9 +4,9 @@
 **Mobile:** Available on request
 **Linked In:** [https://www.linkedin.com/in/jeremy-busk/](https://www.linkedin.com/in/jeremy-busk/)
 **Email:** [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com)  
-**GitHub:** [github.com/jeremybusk](https://github.com/jeremybusk)  [github.com/uvoo](https://github.com/uvoo)
 **Resume:** [github.com/jeremybusk/me](https://github.com/jeremybusk/me)  
-**Wiki / Project Notes:** [tech.uvoo.io](https://tech.uvoo.io/)
+**Wiki / Project Notes/Scratchpad:** [tech.uvoo.io](https://tech.uvoo.io/)
+**GitHub:** [github.com/jeremybusk](https://github.com/jeremybusk)  [github.com/uvoo](https://github.com/uvoo)
 
 ## Selected Personal Projects
 
