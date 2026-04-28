@@ -1,5 +1,5 @@
 # **JEREMY BUSK**
-Lehi, Utah | jeremybusk@gmail.com | Mobile available on request  
+Lehi, Utah 84048 | jeremybusk@gmail.com | Mobile available on request  
 LinkedIn: [https://www.linkedin.com/in/jeremy-busk/](https://www.linkedin.com/in/jeremy-busk/)  
 GitHub (Personal): [https://github.com/jeremybusk](https://github.com/jeremybusk) | GitHub (Uvoo): [https://github.com/uvoo](https://github.com/uvoo)  
 Tech Wiki / Scratchpad: [https://tech.uvoo.io/](https://tech.uvoo.io/) | Resume Repo: [https://github.com/jeremybusk/me](https://github.com/jeremybusk/me)
