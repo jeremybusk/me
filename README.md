@@ -1,6 +1,6 @@
 # Jeremy Busk
 
-Lehi, Utah • [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com) • GitHub: github.com/jeremybusk
+Lehi, Utah 84048 • [jeremybusk@gmail.com](mailto:jeremybusk@gmail.com) • GitHub: github.com/jeremybusk
 
 ## PRINCIPAL / SENIOR ARCHITECT / ENGINEER
 
@@ -37,7 +37,7 @@ Specialized in practical, cost-efficient systems built with white-box hardware, 
 **uNode**
 Architecting and developing a Go- and PostgreSQL-based endpoint automation, security, and performance monitoring platform for Windows, Linux, and macOS. Designed to provide centralized node management, policy enforcement, custom command execution, and integrations for security tooling.
 
-**certctl**
+**uvoocertctl**
 Built an X.509 certificate lifecycle management CLI for public and private PKI workflows, focused on certificate issuance, automation, lifecycle operations, and practical secure distribution.
 
 **Observability Platform Design**
