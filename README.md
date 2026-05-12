@@ -100,12 +100,21 @@ Designed and built cost-efficient logging, metrics, and monitoring platforms usi
 ## EDUCATION
 
 **Utah State University**
-Bachelor of Science, Business Information Systems, Cum Laude
-2000
+Bachelor of Science, Business Information Systems, Cum Laude 1994 - 2000
 
-## CERTIFICATION
+## Volunteer
 
-**Certified Kubernetes Administrator (CKA)** — 2025
+** Church of Jesus Christ of Latter Day Saints Mission (a lot of service) 1996 - 1998 **
+** Traverse Mountain Eagle Summit Neighborhood HOA Representative 2012 - 2016 **
+
+## RECENT CERTIFICATIONS
+
+**Certified Kubernetes Administrator (CKA)** - Exp Jan 25, 2027 - Score: 83% - https://www.credly.com/badges/2b4ab13f-ced4-4094-bb53-76f0468ddc4c/public_url
+**HashiCorp Certified: Terraform Associate (002)** - Exp Dec 9, 2024 - Score: 96% - https://www.credly.com/badges/53e82ef3-8db5-4211-ad51-4984decc1c8c/public_url
+
+## Notibable Awards
+
+**Eagle Scout, Boy Scouts of America (BSA) — 1993**
 
 ## ADDITIONAL
 
@@ -113,3 +122,5 @@ Bachelor of Science, Business Information Systems, Cum Laude
 * 25+ years of Linux and open-source experience
 * Strong preference for practical, cost-efficient, platform-independent systems
 * Comfortable leading initiatives, contributing within teams, or executing independently
+* Great communicator, excellent work ethic, trustworthy self-driven and extremely fast at innovating and delivering solutions
+* Eagle Scout
