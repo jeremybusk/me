@@ -104,8 +104,11 @@ Bachelor of Science, Business Information Systems, Cum Laude 1994 - 2000
 
 ## Volunteer
 
-** Church of Jesus Christ of Latter Day Saints Mission (a lot of service) 1996 - 1998 **
-** Traverse Mountain Eagle Summit Neighborhood HOA Representative 2012 - 2016 **
+** Church of Jesus Christ of Latter Day Saints **
+Mission (service focused) 1996 - 1998
+
+** Traverse Mountain HOA Representative  **
+Eagle Summit Neighborhood  2012 - 2017
 
 ## RECENT CERTIFICATIONS
 
