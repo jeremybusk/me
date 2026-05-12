@@ -112,8 +112,11 @@ Eagle Summit Neighborhood Rep, 2012 - 2017
 
 ## RECENT CERTIFICATIONS
 
-**Certified Kubernetes Administrator (CKA)** - Exp Jan 25, 2027 - Score: 83% - https://www.credly.com/badges/2b4ab13f-ced4-4094-bb53-76f0468ddc4c/public_url
-**HashiCorp Certified: Terraform Associate (002)** - Exp Dec 9, 2024 - Score: 96% - https://www.credly.com/badges/53e82ef3-8db5-4211-ad51-4984decc1c8c/public_url
+**Certified Kubernetes Administrator (CKA)**
+Exp Jan 25, 2027 - Score: 83% - https://www.credly.com/badges/2b4ab13f-ced4-4094-bb53-76f0468ddc4c/public_url
+
+**HashiCorp Certified: Terraform Associate (002)**
+Exp Dec 9, 2024 - Score: 96% - https://www.credly.com/badges/53e82ef3-8db5-4211-ad51-4984decc1c8c/public_url
 
 ## Notibable Awards
 
